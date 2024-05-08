@@ -6,13 +6,11 @@ function Project({project}) {
 
   return (
     <div>
-        <div className="bg-blue-100 mb-3 "  onClick={() => setShowModal(true)}>
-          <div className="flex flex-col x-overflow-hidden w-100">
-              <h2 className="absolute bg-white ">{project.title}</h2>
+        <div className="bg-blue-100 mb-3 cursor-pointer "  onClick={() => setShowModal(true)}>
+          <div className="flex flex-col x-overflow-hidden w-100 hover:scale-105 duration-300 ease-in-out">
+              <h2 className="absolute bg-white p-3">{project.title}</h2>
               <img src={project.images[0]}/>
           </div>
-          
-          
         </div>
         {showModal ? (
           <>

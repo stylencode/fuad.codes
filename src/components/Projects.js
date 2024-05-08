@@ -34,6 +34,7 @@ function Projects({projects}) {
                 <Project />
           </div>
         </div>
+        
     </div>
   );
 }

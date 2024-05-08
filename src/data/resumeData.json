@@ -224,6 +224,52 @@
             "name": "C#"
           }
         ]
+      },
+      {
+        "title": "GenerationBBOY",
+        "description": "Pre-curated and customized gift boxes is a unique and memorable way to express gratitude, love, admiration, or simply to send good vibes for someone on your mind. WP and WooComm driven, the site features a simple, intuitive process for customizing your box that allows further degree of product customization.",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ZdfyvHR_Bndjw9iajfCwiOdpR_2WV2liRQ&usqp=CAU",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Three Ships",
+        "description": "Pre-curated and customized gift boxes is a unique and memorable way to express gratitude, love, admiration, or simply to send good vibes for someone on your mind. WP and WooComm driven, the site features a simple, intuitive process for customizing your box that allows further degree of product customization.",
+        "images": [
+          "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2020/10/getty_columbus.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
       }
     ],
     "extra": [

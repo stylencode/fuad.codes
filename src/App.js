@@ -21,7 +21,7 @@ function App() {
   }, []);
 
   return (
-    <div className="w-3/4 m-auto">
+    <div className="lg:w-3/4 md:w-1/2 p-2 m-auto">
       <div className="mt-10">
         <Header author={resumeData.main} />
         <Credentials credentials={resumeData.main.credentials}/>
@@ -29,10 +29,6 @@ function App() {
         <Skills skills={resumeData.resume.skills} />
         <Xtra data={resumeData.extra} />
         <Footer />
-
-        
-
-
       </div>
     </div>
   );
