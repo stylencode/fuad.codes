@@ -7,6 +7,7 @@ import Skills from './components/Skills';
 import Xtra from './components/Xtra';
 import Credentials from './components/Credentials';
 import Footer from './components/Footer';
+import RecentWork from './components/RecentWork';
 
 
 function App() {
@@ -24,11 +25,14 @@ function App() {
       <div className="mt-10">
         <Header author={resumeData.main} />
         <Credentials credentials={resumeData.main.credentials}/>
-        <Projects projects={resumeData.projects}/>
+        <RecentWork projects={resumeData.projects} />
         <Skills skills={resumeData.resume.skills} />
         <Xtra data={resumeData.extra} />
-
         <Footer />
+
+        
+
+
       </div>
     </div>
   );

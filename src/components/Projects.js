@@ -1,13 +1,13 @@
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import GalleryItem from "./GalleryItem";
-import CardItem from "./CardItem"
+import CardItem from "./CardItem";
+import Project from "./Project";
 
 function Projects({projects}) {
 
   const projectsData = projects;
-  console.log(projectsData);
+  //console.log(projectsData);
 
   var settings = {
     dots: true,
@@ -29,6 +29,11 @@ function Projects({projects}) {
             ))}
          </Slider>   
       </div>
+      <div className="mt-5">
+            <div class="columns-1 sm:columns-2 sm:gap-8 md:columns-3 lg:columns-3 [&>img:not(:first-child)]:mt-8">
+                <Project />
+          </div>
+        </div>
     </div>
   );
 }

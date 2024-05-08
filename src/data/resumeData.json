@@ -69,10 +69,10 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Vista Neuro",
         "description": "App that handles adoption  :)",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Curacao_Iguana_iguana_2021_2.jpg/640px-Curacao_Iguana_iguana_2021_2.jpg",
+          "https://www.csneuro.com/wp-content/uploads/2023/04/What-is-Neuro-Optometry_Blog-Post-Image.jpg",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Curacao_Iguana_iguana_2021_2.jpg/640px-Curacao_Iguana_iguana_2021_2.jpg"
         ],
         "url": "https://github.com",
@@ -92,10 +92,10 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "Hotel Engine",
         "description": "Testing our new camera and photo editor app.",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Curacao_Iguana_iguana_2021_2.jpg/640px-Curacao_Iguana_iguana_2021_2.jpg",
+          "https://assets-global.website-files.com/65ccf88d8c01b2e497590258/6630de540fefb5bcecc0f124_he_logo-1.webp",
           "images/portfolio/photography/p2.jpg"
         ],
         "url": "https://github.com",
@@ -111,10 +111,102 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
+        "title": "2-10 Home Buyers",
         "description": "App that allows to view the object via drone perspective.",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Curacao_Iguana_iguana_2021_2.jpg/640px-Curacao_Iguana_iguana_2021_2.jpg",
+          "https://www.valleyfirst.com/assets/img/images/advice-articles/First-Time%20Home%20Buyers.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "SweetCow Ice Cream",
+        "description": "App that allows to view the object via drone perspective.",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Directional Drills",
+        "description": "App that allows to view the object via drone perspective.",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCAJfeiB7rJUdqn2icfXdny6rPu6kdC0hGcQ&usqp=CAU",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "School of Breaking",
+        "description": "App that allows to view the object via drone perspective.",
+        "images": [
+          "https://www.pjstar.com/gcdn/authoring/2013/01/03/NJOS/ghows-IP-067cd50f-5285-4275-a77d-86e14685aa39-b0dfbbda.jpeg?width=660&height=457&fit=crop&format=pjpg&auto=webp",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Fun Gift Boxes",
+        "description": "Pre-curated and customized gift boxes is a unique and memorable way to express gratitude, love, admiration, or simply to send good vibes for someone on your mind. WP and WooComm driven, the site features a simple, intuitive process for customizing your box that allows further degree of product customization.",
+        "images": [
+          "https://i.etsystatic.com/15462358/r/il/3d2c19/4764057890/il_570xN.4764057890_9ig2.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
         "url": "https://github.com",
