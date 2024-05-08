@@ -1,17 +1,17 @@
 {
     "main": {
-      "name": "Davina Griss",
+      "name": "Fuad Talybov",
       "title": "Front-end Developer",
       "description": "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-      "social": [
+      "credentials": [
         {
           "name": "github",
           "url": "https://github.com",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com",
           "class": "fab fa-instagram"
         }
       ],
@@ -31,7 +31,7 @@
           "level": "95"
         },
         {
-          "name": "Angular",
+          "name": "React",
           "class": "devicon-angularjs-plain",
           "level": "80"
         },
@@ -56,7 +56,7 @@
           "level": "85"
         },
         {
-          "name": "C#",
+          "name": "Wordpress",
           "class": "devicon-csharp-plain",
           "level": "65"
         },
@@ -72,8 +72,8 @@
         "title": "Animal Shelter",
         "description": "App that handles adoption  :)",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Curacao_Iguana_iguana_2021_2.jpg/640px-Curacao_Iguana_iguana_2021_2.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Curacao_Iguana_iguana_2021_2.jpg/640px-Curacao_Iguana_iguana_2021_2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -95,7 +95,7 @@
         "title": "Photography",
         "description": "Testing our new camera and photo editor app.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Curacao_Iguana_iguana_2021_2.jpg/640px-Curacao_Iguana_iguana_2021_2.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
         "url": "https://github.com",
@@ -114,7 +114,7 @@
         "title": "3D Object Viewer",
         "description": "App that allows to view the object via drone perspective.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Curacao_Iguana_iguana_2021_2.jpg/640px-Curacao_Iguana_iguana_2021_2.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
         "url": "https://github.com",
@@ -132,6 +132,15 @@
             "name": "C#"
           }
         ]
+      }
+    ],
+    "extra": [
+      {
+        "event": "ETHDenver 2024 Hackathon",
+        "title": "Camp BUIDL, Project Vice-Roll Casino",
+        "years": "2024",
+        "context": "web3, solidity, smart contracts",
+        "stack": ["NextJS","ReactJS"]
       }
     ],
     "experience": [

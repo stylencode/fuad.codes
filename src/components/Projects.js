@@ -1,19 +1,38 @@
-function Projects() {
+import Slider from "react-slick";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+import GalleryItem from "./GalleryItem";
+import CardItem from "./CardItem"
+
+function Projects({projects}) {
+
+  const projectsData = projects;
+  console.log(projectsData);
+
+  var settings = {
+    dots: true,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+  };
 
   return (
-    <section id="projects">
-      <div className="row banner">
-        <div className="col-md-12 mx-auto pt-5">
-          <div style={{ paddingBottom: '10px' }}>
-            <h2>
-            Projects
-            </h2>
-          </div>
-        </div>
-
+    <div id="projects" className="mb-20">
+      <h2 className="mb-5">
+        Recent Work
+      </h2>
+      <div className="mt-5">
+        <Slider {...settings}>
+            {projectsData.map((d) => (
+              <CardItem d={d}/>
+            ))}
+         </Slider>   
       </div>
-    </section>
+    </div>
   );
 }
 
 export default Projects;
+
+

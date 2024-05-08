@@ -1,16 +1,23 @@
-function Header() {
+
+
+
+function Header({author}) {
 
   return (
-    <header id="home">
-      <div className="row banner">
-        <div className="col-md-12 mx-auto pt-5">
-          <div style={{ paddingBottom: '10px' }}>
-            <h1>
-              Site Title
-            </h1>
-          </div>
-        </div>
+    <header id="home" className="pt-5 mb-5 text-black">
+      <div className="">
 
+            <h1 className="author-name">
+              {author.name}
+            </h1>
+
+            <p className="author-title">
+              {author.title}
+            </p>
+            <p className="author-description">
+              {author.description}
+            </p>
+            
       </div>
     </header>
   );

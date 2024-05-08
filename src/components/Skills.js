@@ -1,16 +1,23 @@
-function Skills() {
+import Chip from '@mui/material/Chip';
+import Stack from '@mui/material/Stack';
+
+function Skills({skills}) {
 
   return (
-    <section id="skills">
-      <div className="row banner">
-        <div className="col-md-12 mx-auto pt-5">
+    <section id="skills mt-20">
+      <div className="">
           <div style={{ paddingBottom: '10px' }}>
-            <h2>
+            <h2 className="mb-5">
               Skills
             </h2>
-          </div>
+            <div>
+            <Stack direction="row" spacing={1}>
+              {skills.map((skill) => (
+                <Chip label={skill.name} />
+              ))}
+            </Stack>
+            </div>
         </div>
-
       </div>
     </section>
   );

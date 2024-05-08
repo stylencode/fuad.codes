@@ -1,35 +1,38 @@
-import logo from './logo.svg';
-import './App.css';
 import resumeData from './data/resumeData.json';
 import React, { useState, useEffect } from 'react';
+
 import Header from './components/Header';
-import About from './components/About';
-import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Skills from './components/Skills';
+import Xtra from './components/Xtra';
+import Credentials from './components/Credentials';
 import Footer from './components/Footer';
 
 
 function App() {
 
   const [data, setData] = useState(null);
-
+  
   useEffect(() => {
     // Set the data from the JSON file when the component mounts
     setData(resumeData);
-    console.log(resumeData);
+    
   }, []);
 
   return (
-    <div className="App">
-      <Header />
-      <About />
-      <Experience />
-      <Skills />
-      <Projects />
-      <Footer />
+    <div className="w-3/4 m-auto">
+      <div className="mt-10">
+        <Header author={resumeData.main} />
+        <Credentials credentials={resumeData.main.credentials}/>
+        <Projects projects={resumeData.projects}/>
+        <Skills skills={resumeData.resume.skills} />
+        <Xtra data={resumeData.extra} />
+
+        <Footer />
+      </div>
     </div>
   );
 }
+
 
 export default App;
