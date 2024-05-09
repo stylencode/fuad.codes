@@ -13,7 +13,13 @@ function Skills({skills}) {
             <div>
             <Stack direction="row" spacing={1}>
               {skills.map((skill) => (
-                <Chip label={skill.name} />
+                <Chip label={skill.name} sx={{
+                  margin: '5px !important',
+                  '& .MuiChip-label': {
+                    display: 'block',
+                    whiteSpace: 'normal',
+                  },
+                }}/>
               ))}
             </Stack>
             </div>
