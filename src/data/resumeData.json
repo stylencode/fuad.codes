@@ -270,6 +270,29 @@
             "name": "C#"
           }
         ]
+      },
+      {
+        "title": "ViceRoll Casino",
+        "description": "Pre-curated and customized gift boxes is a unique and memorable way to express gratitude, love, admiration, or simply to send good vibes for someone on your mind. WP and WooComm driven, the site features a simple, intuitive process for customizing your box that allows further degree of product customization.",
+        "images": [
+          "https://imageio.forbes.com/specials-images/imageserve/631f880d35705749f07ec512/Soo-Kim-by-Aaron-Kotowski-for-Forbes-/0x0.jpg?format=jpg&height=2265&width=1618",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
       }
     ],
     "extra": [

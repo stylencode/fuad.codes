@@ -11,7 +11,7 @@ function RecentWork({projects}) {
         Recent Work
       </h2>
       <div className="mt-5">
-            <div class="columns-1 sm:columns-2 sm:gap-8 lg:columns-2 xl:columns-3 [&>img:not(:first-child)]:mt-8">
+            <div class="columns-1 sm:columns-2 sm:gap-8 lg:columns-2 xl:columns-2 [&>img:not(:first-child)]:mt-8">
               {projectsData.map((p) => (
                 <Project project={p}/>
               ))}
