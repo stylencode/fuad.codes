@@ -4,16 +4,19 @@ function Credentials({credentials}) {
 console.log(credentials);
 
   return (
-    <div id="credentials" className="pt-5 mb-20 text-black flex gap-5">
+    <div id="credentials" className="pt-3 mb-20 text-black flex gap-5 justify-start">
 
       {credentials.map((c)=> (
 
-          <div className="mr-10">
+          <div className="mr-10 text-right hover:bg-sky-400">
             <a href={c.url} className={c.class}>
-              <h4 className="credential-title">
+              <svg className="social-icon  w-[40px] text-center m-auto" viewBox="0 0 512 512"><path d={c.path}></path></svg>
+            
+              <h5 className="credential-title text-center m-auto">
                 {c.name}
-              </h4>
+              </h5>
             </a>
+
           </div>
 
       ))}

@@ -1,5 +1,4 @@
-
-function Footer() {
+function HotelEngine() {
   
   
   return (
@@ -15,4 +14,4 @@ function Footer() {
   );
 }
 
-export default Footer;
+export default HotelEngine;
