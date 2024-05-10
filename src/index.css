@@ -77,3 +77,8 @@ html, body, p, ul, li
   font-size: 16px;
   font-family: 'Roboto';
 }
+
+.project-description > p
+{
+  margin-bottom: 25px;
+}

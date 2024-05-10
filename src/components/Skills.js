@@ -4,7 +4,7 @@ import Stack from '@mui/material/Stack';
 function Skills({skills}) {
 
   return (
-    <section id="skills mt-20">
+    <section id="skills mb-4">
       <div className="">
           <div style={{ paddingBottom: '10px' }}>
             <h2 className="mb-5">
@@ -16,7 +16,7 @@ function Skills({skills}) {
                 <Chip label={skill.name} sx={{
                   margin: '5px !important',
                   '& .MuiChip-label': {
-                    display: 'block',
+                    display: 'inline-block',
                     whiteSpace: 'normal',
                   },
                 }}/>

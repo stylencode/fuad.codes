@@ -6,7 +6,7 @@ function ProjectStack({projectStack}) {
  const ps = projectStack;
 
   return (
-    <div className="container mt-20">
+    <div className="container mt-10 pt-4 pb-4">
          <Stack direction="row" spacing={1}>
                 {projectStack.map((sk) => (
                     <Chip label={sk.name} />
