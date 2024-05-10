@@ -77,14 +77,22 @@
         "title": "Three Ships",
         "description": "Pre-curated and customized gift boxes is a unique and memorable way to express gratitude, love, admiration, or simply to send good vibes for someone on your mind. WP and WooComm driven, the site features a simple, intuitive process for customizing your box that allows further degree of product customization.",
         "images": [
-          "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2020/10/getty_columbus.jpg",
-          "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2020/10/getty_columbus.jpg",
-          "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2020/10/getty_columbus.jpg",
-          "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2020/10/getty_columbus.jpg",
-          "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2020/10/getty_columbus.jpg",
-          "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2020/10/getty_columbus.jpg"
+          "/assets/portfolio/threeships/mw-logo.png",
+          "/assets/portfolio/threeships/m1-logo.png",
+          "/assets/portfolio/threeships/jal-logo.png",
+          "/assets/portfolio/threeships/amb-logo.png",
+          "/assets/portfolio/threeships/motor1-1.png",
+          "/assets/portfolio/threeships/motor1-2.png",
+          "/assets/portfolio/threeships/mw-1.png",
+          "/assets/portfolio/threeships/jalopnik-1.png",
+          "/assets/portfolio/threeships/amb-1.png",
+          "/assets/portfolio/threeships/aro-1.png",
+          "/assets/portfolio/threeships/aro-2.png",
+          "/assets/portfolio/threeships/ccs-1.png",
+          "/assets/portfolio/threeships/cwq-1.png",
+          "/assets/portfolio/threeships/rccw-1.png"
         ],
-        "splash": "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2020/10/getty_columbus.jpg",
+        "splash": "/assets/portfolio/threeships/ts-logo.png",
         "url": "https://github.com",
         "technologies": [
           {
@@ -105,9 +113,10 @@
         "title": "Hotel Engine",
         "description": "Testing our new camera and photo editor app.",
         "images": [
-          "/assets/hotel-engine-2.jpg","/assets/hotel-engine-2.jpg"
+          "/assets/portfolio/hotelengine/hotel-engine-2.jpg",
+          "/assets/portfolio/hotelengine/hotel-engine-2.jpg"
         ],
-        "splash": "https://assets-global.website-files.com/65ccf88d8c01b2e497590258/6630de540fefb5bcecc0f124_he_logo-1.webp",
+        "splash": "/assets/portfolio/hotelengine/he-logo.png",
         "url": "https://github.com",
         "technologies": [
           {
@@ -124,10 +133,10 @@
         "title": "2-10 Home Buyers",
         "description": "App that allows to view the object via drone perspective.",
         "images": [
-          "https://www.valleyfirst.com/assets/img/images/advice-articles/First-Time%20Home%20Buyers.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "/assets/portfolio/210hbw/210-1.jpg",
+          "/assets/portfolio/210hbw/210-1.jpg"
         ],
-        "splash": "https://www.valleyfirst.com/assets/img/images/advice-articles/First-Time%20Home%20Buyers.jpg",
+        "splash": "/assets/portfolio/210hbw/210-logo.png",
         "url": "https://github.com",
         "technologies": [
           {
@@ -148,10 +157,11 @@
         "title": "Vista Neuro",
         "description": "App that handles adoption  :)",
         "images": [
-          "https://www.csneuro.com/wp-content/uploads/2023/04/What-is-Neuro-Optometry_Blog-Post-Image.jpg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Curacao_Iguana_iguana_2021_2.jpg/640px-Curacao_Iguana_iguana_2021_2.jpg"
+          "/assets/portfolio/vistaneuro/vn-1.png",
+          "/assets/portfolio/vistaneuro/vn-2.png",
+          "/assets/portfolio/vistaneuro/vn-3.png"
         ],
-        "splash": "https://www.csneuro.com/wp-content/uploads/2023/04/What-is-Neuro-Optometry_Blog-Post-Image.jpg",
+        "splash": "/assets/portfolio/vistaneuro/vn-logo.png",
         "url": "https://github.com",
         "technologies": [
           {
@@ -172,10 +182,16 @@
         "title": "Directional Drills",
         "description": "<p>Directional Drills is another Wordpress driven custom theme build for a local heavy machinery and equipment broker. The main drive behind developing this project was to help a frustrated business owner who couldn't get previous developers deliver him a site after months of wasting his time. Knowing was burn out can do to client's desire to trust again has forced me to assume a pro-active position in order to prevent a negative experience.</p><p>From the get-go, I set up expectations for design, process, functional capabilities and was able to earn client's trust. We've explored his main competition and despite similar brand colors, products and industry, have been able to put together a look and feel that is distinct from competition yet modern and appealing.</p><p>Main challenge was to build a variety of similar product listings that break up into categories and have specific custom meta data that is filterable on the website. The other challenge was to allow for guest submission while allowing registered users to edit their previous listings. And one last final requirement was to allow simple administration and management of listings, as well as the ability to transfer over 400 existing listings from an old database.</p><p>To pull off this gig in quick times, I relied on several plugins like Elementor, FacetWP, Relevansi, Gravity Forms, WP Import and few others. I prefer not to use plugins when possible, but sometimes extending particular functionality myself is simply not cost-practical. I've constructed simple PHP queries to format data from old DB into a table. Using WP Import, CSV and mapping of fields, I moved over 400 listings including featured images into the new Wordpress Database.</p>",
         "images": [
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCAJfeiB7rJUdqn2icfXdny6rPu6kdC0hGcQ&usqp=CAU",
-          "images/portfolio/adventure/p2.jpg"
+          "/assets/portfolio/directec/dt-main.jpg",
+          "/assets/portfolio/directec/dd-1.png",
+          "/assets/portfolio/directec/dd-2.png",
+          "/assets/portfolio/directec/dd-3.png",
+          "/assets/portfolio/directec/dd-4.png",
+          "/assets/portfolio/directec/dd-5.png",
+          "/assets/portfolio/directec/dd-6.png",
+          "/assets/portfolio/directec/dd-9.png"
         ],
-        "splash": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCAJfeiB7rJUdqn2icfXdny6rPu6kdC0hGcQ&usqp=CAU",
+        "splash": "/assets/portfolio/directec/dt-logo.png",
         "url": "https://github.com",
         "technologies": [
           {
@@ -196,10 +212,18 @@
         "title": "SweetCow Ice Cream",
         "description": "<p>Selling amazing freshly made ice cream and having a great looking site isn't enough for Sweetcow Ice Cream. One of the owners, working previously as a marketing exec, made it a goal to create some really cool tools as extensions of the brand facing internally and externally.</p><p>My introduction to the relationship started with the task of implementing an e-Commerce into a rebranded Wordpress site. In collaboration with Brent Thelen Design, who came up with the look and feel and set initial bootstrap theme, I've added the online shopping capabilities with abilities to purchase pre-loaded gift cards, and specific shipping rates for perishables based on internal shipping tables.</p><p>After the implementation of WooComm and the rebrand of site, I was approached with another challenge to solve. The challenge was to build a tablet-friendly, multi-user, multi-store Inventory Content Management System that allowed staff to update inventory, manage flavors, recipes, review reports and even predict upcoming inventory needs. A similar system has already existed sitting on an outdated Flex software. It has become extremely unstable and too slow to be useful. Without an existing documentation and no references, I was tasked to rebuild the system making it faster, scalable, easy to use, and responsive. Utilizing HTML 5, PHP, Angular, and JQuery, the new system came to life in early 2019 after several months of development. It gained immediate popularity internally, has resolved previous challenges, and opened up opportunities to add more functionalities with ease.</p><p>The final integral part of this project was a Loyalty Application, available for iOS and Android phones. Although I did not develop the code for the app, it is worth to note that the application's functionally primary depends on the Inventory CMS database to create push notifications almost instantly, letting users know when their favorite flavors are now available at certain stores.</p>",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "/assets/portfolio/sweetcow/sw-1.png",
+          "/assets/portfolio/sweetcow/sw-2.png",
+          "/assets/portfolio/sweetcow/sw-3.png",
+          "/assets/portfolio/sweetcow/sw-5.png",
+          "/assets/portfolio/sweetcow/sw-icms-1.png",
+          "/assets/portfolio/sweetcow/sw-icms-2.png",
+          "/assets/portfolio/sweetcow/sw-icms-3.png",
+          "/assets/portfolio/sweetcow/sw-icms-4.png",
+          "/assets/portfolio/sweetcow/sw-icms-5.png",
+          "/assets/portfolio/sweetcow/sw-main.png"
         ],
-        "splash": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg",
+        "splash":  "/assets/portfolio/sweetcow/sw-logo.png",
         "url": "https://github.com",
         "technologies": [
           {
@@ -220,10 +244,15 @@
         "title": "School of Breaking",
         "description": "<p>What a business, and a website that drives a lot of it! Built using Flatsome UX Template for Wordpress, this site has gone through many transformations and 3rd party integrations for the sake of improving user experience. It has stood the testament of time and has become an example of a specific practical solution as an answer to growing business and consumer needs.</p> <p>First of all, starting a breakdance ( properly Breakin' ) studio business when the market is practically non-existent is an uphill battle no matter how you look at it. But S.O.B. was not the first to do it and had a few existing hip hop studio businesses to compete with. Besides the business model and a relentless pursuit of growth from the studio leadership, there was a need for School of Breaking to make its statement.</p><p>My goal as a Web Designer and Developer was to create a brand presence that helped SOB curb some of the existing negative stereotypes of street dancers such as not being tech savvy or too dramatic, uneducated and unprofessional, and so on, and establish a sense of trust and vision with potential customers. By incorporating a modern and clean design, setting up seamless check-out process, utilizing Mailchimp, Social Media and setting up the tone of the communications, I helped the business gain strategic technological advantage and allowed leadership focus on building necessary social relationships with students, parents, and community members.</p><p>While overseeing graphics, emails, photography, I put strong focus on strategic usability improvements especially those that align with the \"less clicks\" thought processes and allows to streamline time-consuming business functions. For example, by implementing Square, custom fields, and specific communication campaigns, SOB is now accepting most of its registrations online, accumulating close to 1MM in online sales to date.</p><p>With School of Breaking, I am currently exploring opportunities to enhance customer CRM and provide students and partners with even more personalized experience.</p>",
         "images": [
-          "https://www.pjstar.com/gcdn/authoring/2013/01/03/NJOS/ghows-IP-067cd50f-5285-4275-a77d-86e14685aa39-b0dfbbda.jpeg?width=660&height=457&fit=crop&format=pjpg&auto=webp",
-          "images/portfolio/adventure/p2.jpg"
+          "/assets/portfolio/sob/sob-1.png",
+          "/assets/portfolio/sob/sob-2.png",
+          "/assets/portfolio/sob/sob-3.png",
+          "/assets/portfolio/sob/sob-4.png",
+          "/assets/portfolio/sob/sob-5.png",
+          "/assets/portfolio/sob/sob-6.png",
+          "/assets/portfolio/sob/sob-7.png"
         ],
-        "splash": "https://www.pjstar.com/gcdn/authoring/2013/01/03/NJOS/ghows-IP-067cd50f-5285-4275-a77d-86e14685aa39-b0dfbbda.jpeg?width=660&height=457&fit=crop&format=pjpg&auto=webp",
+        "splash": "/assets/portfolio/sob/sob-logo.png",
         "url": "https://github.com",
         "technologies": [
           {
@@ -244,10 +273,14 @@
         "title": "Fun Gift Boxes",
         "description": "<p>Pre-curated and customized gift boxes is a unique and memorable way to express gratitude, love, admiration, or simply to send good vibes for someone on your mind. I was tasked with translating several flat-coded pages into Wordpress while creating additional templates and figuring out the best approach to handle the customization of products.</p><p>After building the initial Wordpress theme using a 12 column Bootstrap 3 layout grid and creating additional templates for all WooCommerce touch-points, I began exploring a number of multi-step plugins and product customizers that can allow easier customization process. I've settled on a WooCommerce Composite Plugin and with minor tweaks the plugin has allowed for the needed functionality. In addition, the shop admin liked the ability to further customize the array of available designs without increasing the number of sku's she carries in the store.</p><p>Overall, the site has received a lot of positive feedback for it's ease of use, and great look. The owner is now confidently expanding her network of clients and suppliers without having to worry about her online representation.</p>",
         "images": [
-          "https://i.etsystatic.com/15462358/r/il/3d2c19/4764057890/il_570xN.4764057890_9ig2.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "/assets/portfolio/fgb/fgb-1.png",
+          "/assets/portfolio/fgb/fgb-3.png",
+          "/assets/portfolio/fgb/fgb-4.png",
+          "/assets/portfolio/fgb/fgb-5.png",
+          "/assets/portfolio/fgb/fgb-6.png",
+          "/assets/portfolio/fgb/fgb-7.png"
         ],
-        "splash": "https://i.etsystatic.com/15462358/r/il/3d2c19/4764057890/il_570xN.4764057890_9ig2.jpg",
+        "splash": "/assets/portfolio/fgb/fgb-logo.png",
         "url": "https://github.com",
         "technologies": [
           {
@@ -268,10 +301,11 @@
         "title": "GenerationBBOY",
         "description": "Pre-curated and customized gift boxes is a unique and memorable way to express gratitude, love, admiration, or simply to send good vibes for someone on your mind. WP and WooComm driven, the site features a simple, intuitive process for customizing your box that allows further degree of product customization.",
         "images": [
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ZdfyvHR_Bndjw9iajfCwiOdpR_2WV2liRQ&usqp=CAU",
-          "images/portfolio/adventure/p2.jpg"
+          "/assets/portfolio/gb/gb-1.png",
+          "/assets/portfolio/gb/gb-2.png",
+          "/assets/portfolio/gb/gb-3.png"
         ],
-        "splash": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ZdfyvHR_Bndjw9iajfCwiOdpR_2WV2liRQ&usqp=CAU",
+        "splash": "/assets/portfolio/gb/gb-logo.png",
         "url": "https://github.com",
         "technologies": [
           {

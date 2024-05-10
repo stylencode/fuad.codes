@@ -24,7 +24,7 @@ function Project({project}) {
     <div>
         <div className="bg-blue-100 mb-3 cursor-pointer "  onClick={openModal}>
           <div className="flex flex-col overflow-x-hidden hover:scale-105 duration-300 ease-in-out">
-              <h4 className="absolute bg-white p-3">{project.title}</h4>
+              
               <img src={project.splash}/>
           </div>
         </div>
