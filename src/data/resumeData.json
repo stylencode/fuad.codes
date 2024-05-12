@@ -241,6 +241,34 @@
         ]
       },
       {
+        "title": "Feel Love Homes - ADU Estimator Plugin",
+        "description": "<p>I had a great opportunity to work with a friend on this fun estimator for this business. </p><p>His company specializes in building ADUs (Accessory Dwelling Units) in the NC area, and he reached out with a need to build an ADU Estimator for his website visitors that would also serve as a lead-generation tool integrated with HubSpot.</p><p>I chose to build him a custom plugin that extended Gravity Forms. Gravity forms was chosen because of their partnership with HubSpot offering a seamless integration with the CRM. Gravity Forms also gave the admins a simple interface to configure the estimator, or any additional forms they'd like.</p><p>The estimator needed to offer options for Fixed and Percentage costs for each selected configuration step. For example, adding flooring would be a percentage cost based on the initial Base model selected, but adding a 2nd floor is a Fixed cost. In addition, the number of steps and what product options are offered on each step is up for the admin to determine.</p><p>Initially, this sounded like a tough formula to crack, but even this challenge was tamed in short order. Because setting up this ADU Estimator was not a simple task, I also provided a detailed documentation on how to configure this plugin.</p>",
+        "images": [
+          "/assets/portfolio/flh/flh-1.png",
+          "/assets/portfolio/flh/flh-3.png",
+          "/assets/portfolio/flh/flh-4.png",
+          "/assets/portfolio/flh/flh-5.png",
+          "/assets/portfolio/flh/flh-6.png",
+          "/assets/portfolio/flh/flh-7.png"
+        ],
+        "splash": "/assets/portfolio/flh/flh-logo.png",
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "WordPress"
+          },
+          {
+            "class": "devicon-hubspot-plain",
+            "name": "HubSpot"
+          }
+        ]
+      },
+      {
         "title": "School of Breaking",
         "description": "<p>What a business, and a website that drives a lot of it! Built using Flatsome UX Template for Wordpress, this site has gone through many transformations and 3rd party integrations for the sake of improving user experience. It has stood the testament of time and has become an example of a specific practical solution as an answer to growing business and consumer needs.</p> <p>First of all, starting a breakdance ( properly Breakin' ) studio business when the market is practically non-existent is an uphill battle no matter how you look at it. But S.O.B. was not the first to do it and had a few existing hip hop studio businesses to compete with. Besides the business model and a relentless pursuit of growth from the studio leadership, there was a need for School of Breaking to make its statement.</p><p>My goal as a Web Designer and Developer was to create a brand presence that helped SOB curb some of the existing negative stereotypes of street dancers such as not being tech savvy or too dramatic, uneducated and unprofessional, and so on, and establish a sense of trust and vision with potential customers. By incorporating a modern and clean design, setting up seamless check-out process, utilizing Mailchimp, Social Media and setting up the tone of the communications, I helped the business gain strategic technological advantage and allowed leadership focus on building necessary social relationships with students, parents, and community members.</p><p>While overseeing graphics, emails, photography, I put strong focus on strategic usability improvements especially those that align with the \"less clicks\" thought processes and allows to streamline time-consuming business functions. For example, by implementing Square, custom fields, and specific communication campaigns, SOB is now accepting most of its registrations online, accumulating close to 1MM in online sales to date.</p><p>With School of Breaking, I am currently exploring opportunities to enhance customer CRM and provide students and partners with even more personalized experience.</p>",
         "images": [
@@ -360,27 +388,6 @@
           {
             "class": "devicon-html-plain",
             "name": "HTML5"
-          }
-        ]
-      },
-      {
-        "name": "FeelLoveHomes",
-        "shortTitle": "Wordpress, Custom Plugin, GravityForms, HubSpot",
-        "year": "2023",
-        "context": "php, plugin, custom formulas, hubspot integration",
-        "avatar": "https://feellovehomes.com/wp-content/uploads/2021/11/Black-Primary-Logo-2-e1636767663659.png",
-        "technologies": [
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          },
-          {
-            "class": "devicon-wordpress-plain",
-            "name": "WordPress"
-          },
-          {
-            "class": "devicon-hubspot-plain",
-            "name": "HubSpot"
           }
         ]
       }
