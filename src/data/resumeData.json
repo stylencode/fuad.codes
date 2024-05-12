@@ -92,7 +92,7 @@
           "/assets/portfolio/threeships/cwq-1.png",
           "/assets/portfolio/threeships/rccw-1.png"
         ],
-        "splash": "/assets/portfolio/threeships/ts-logo.png",
+        "splash": "/assets/portfolio/threeships/3s-splash.jpg",
         "url": "https://github.com",
         "technologies": [
           {
@@ -116,7 +116,7 @@
           "/assets/portfolio/hotelengine/hotel-engine-2.jpg",
           "/assets/portfolio/hotelengine/hotel-engine-2.jpg"
         ],
-        "splash": "/assets/portfolio/hotelengine/he-logo.png",
+        "splash": "/assets/portfolio/hotelengine/he-splash.jpg",
         "url": "https://github.com",
         "technologies": [
           {
@@ -136,7 +136,7 @@
           "/assets/portfolio/210hbw/210-1.jpg",
           "/assets/portfolio/210hbw/210-1.jpg"
         ],
-        "splash": "/assets/portfolio/210hbw/210-logo.png",
+        "splash": "/assets/portfolio/210hbw/210-splash.jpg",
         "url": "https://github.com",
         "technologies": [
           {
@@ -161,7 +161,7 @@
           "/assets/portfolio/vistaneuro/vn-2.png",
           "/assets/portfolio/vistaneuro/vn-3.png"
         ],
-        "splash": "/assets/portfolio/vistaneuro/vn-logo.png",
+        "splash": "/assets/portfolio/vistaneuro/vista-splash.jpg",
         "url": "https://github.com",
         "technologies": [
           {
@@ -191,7 +191,7 @@
           "/assets/portfolio/directec/dd-6.png",
           "/assets/portfolio/directec/dd-9.png"
         ],
-        "splash": "/assets/portfolio/directec/dt-logo.png",
+        "splash": "/assets/portfolio/directec/dd-splash.jpg",
         "url": "https://github.com",
         "technologies": [
           {
@@ -223,7 +223,7 @@
           "/assets/portfolio/sweetcow/sw-icms-5.png",
           "/assets/portfolio/sweetcow/sw-main.png"
         ],
-        "splash":  "/assets/portfolio/sweetcow/sw-logo.png",
+        "splash":  "/assets/portfolio/sweetcow/sw-splash.jpg",
         "url": "https://github.com",
         "technologies": [
           {
@@ -251,7 +251,7 @@
           "/assets/portfolio/flh/flh-6.png",
           "/assets/portfolio/flh/flh-7.png"
         ],
-        "splash": "/assets/portfolio/flh/flh-logo.png",
+        "splash": "/assets/portfolio/flh/flh-splash.jpg",
         "url": "https://github.com",
         "technologies": [
           {
@@ -280,7 +280,7 @@
           "/assets/portfolio/sob/sob-6.png",
           "/assets/portfolio/sob/sob-7.png"
         ],
-        "splash": "/assets/portfolio/sob/sob-logo.png",
+        "splash": "/assets/portfolio/sob/sob-splash.jpg",
         "url": "https://github.com",
         "technologies": [
           {
@@ -308,7 +308,7 @@
           "/assets/portfolio/fgb/fgb-6.png",
           "/assets/portfolio/fgb/fgb-7.png"
         ],
-        "splash": "/assets/portfolio/fgb/fgb-logo.png",
+        "splash": "/assets/portfolio/fgb/fgb-splash.jpg",
         "url": "https://github.com",
         "technologies": [
           {
@@ -333,7 +333,7 @@
           "/assets/portfolio/gb/gb-2.png",
           "/assets/portfolio/gb/gb-3.png"
         ],
-        "splash": "/assets/portfolio/gb/gb-logo.png",
+        "splash": "/assets/portfolio/gb/gb-splash.jpg",
         "url": "https://github.com",
         "technologies": [
           {
