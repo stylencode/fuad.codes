@@ -7,7 +7,7 @@ function ProjectStack({projectStack}) {
  const ps = projectStack;
 
   return (
-    <div className="container pt-4 pb-4">
+    <div className="container pt-5 pb-10">
        <div className='skill-list'>
                 {projectStack.map((skill) => (
                    <Skill skill={skill} />
@@ -16,5 +16,4 @@ function ProjectStack({projectStack}) {
     </div>
   );
 }
-
 export default ProjectStack;

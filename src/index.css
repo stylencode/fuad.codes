@@ -87,6 +87,7 @@ html, body, p, ul, li
 {
   flex-wrap: wrap;
   display: flex;
+  justify-content: space-evenly;
 }
 .skill-item
 {
@@ -107,4 +108,12 @@ img.splash-image
 {
   max-width: 260px;
   margin: auto;
+}
+
+
+/* slider */
+.slick-slider
+{
+  padding: 20px 0;
+  margin: 30px 0;
 }
