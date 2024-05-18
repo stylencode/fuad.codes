@@ -82,3 +82,29 @@ html, body, p, ul, li
 {
   margin-bottom: 25px;
 }
+
+.skill-list
+{
+  flex-wrap: wrap;
+  display: flex;
+}
+.skill-item
+{
+  padding: 0 10px 6px 0;
+  margin: 0 5px 5px 0;
+  display: flex;
+  justify-content:center;
+}
+.skill-item i
+{
+
+  margin: 0 10px;
+  font-size: 1.4rem;
+}
+
+
+img.splash-image
+{
+  max-width: 260px;
+  margin: auto;
+}

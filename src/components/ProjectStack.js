@@ -1,17 +1,18 @@
 import Chip from '@mui/material/Chip';
 import Stack from '@mui/material/Stack';
+import Skill from './Skill';
 
 function ProjectStack({projectStack}) {
 
  const ps = projectStack;
 
   return (
-    <div className="container mt-10 pt-4 pb-4">
-         <Stack direction="row" spacing={1}>
-                {projectStack.map((sk) => (
-                    <Chip label={sk.name} />
+    <div className="container pt-4 pb-4">
+       <div className='skill-list'>
+                {projectStack.map((skill) => (
+                   <Skill skill={skill} />
                 ))}
-        </Stack>
+      </div>
     </div>
   );
 }

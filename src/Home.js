@@ -16,7 +16,7 @@ function Home({data}) {
         <Credentials credentials={resumeData.main.credentials}/>
         <RecentWork projects={resumeData.projects} />
         <FunWorks projects={resumeData.funProjects} />
-        <Skills skills={resumeData.resume.skills} />
+        <Skills skills={resumeData.tech} />
         <Footer />
       </div>
     </div>

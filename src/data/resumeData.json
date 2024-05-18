@@ -23,55 +23,69 @@
       "image": "myProfile.jpg",
       "clip": "clip.svg"
     },
-    "resume": {
-      "skills": [
+    "tech": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
+          "name": "HTML5",
+          "class": "devicon-html5-plain"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "React",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
+          "name": "CSS3",
+          "class": "devicon-css3-plain"
         },
         {
           "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
+          "class": "devicon-javascript-plain"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
+          "name": "JQuery",
+          "class": "devicon-jquery-plain"
+        },
+        {
+          "name": "ReactJS",
+          "class": "devicon-react-original"
+        },
+        {
+          "name": "AngularJS",
+          "class": "devicon-angularjs-plain"
         },
         {
           "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
+          "class": "devicon-bootstrap-plain"
+        },
+        {
+          "name": "TailwindCSS",
+          "class": "devicon-tailwindcss-original"
+        },
+        {
+          "name": "MaterialUI",
+          "class": "devicon-materialui-plain"
         },
         {
           "name": "Wordpress",
-          "class": "devicon-csharp-plain",
-          "level": "65"
+          "class": "devicon-wordpress-plain"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain"
         },
         {
           "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "class": "devicon-mysql-plain"
         }
-      ]
-    },
+        ,
+        {
+          "name": "GitHub",
+          "class": "devicon-github-original"
+        },
+        {
+          "name": "NextJS",
+          "class": "devicon-nextjs-plain"
+        },
+        {
+          "name": "NPM",
+          "class": "devicon-npm-original-wordmark"
+        }
+    ],
     "projects": [
       {
         "title": "Three Ships",
@@ -94,18 +108,50 @@
         ],
         "splash": "/assets/portfolio/threeships/3s-splash.jpg",
         "url": "https://github.com",
-        "technologies": [
+        "tech": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML5",
+            "class": "devicon-html5-plain"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS3",
+            "class": "devicon-css3-plain"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain"
+          },
+          {
+            "name": "JQuery",
+            "class": "devicon-jquery-plain"
+          },
+          {
+            "name": "ReactJS",
+            "class": "devicon-react-original"
+          },
+          {
+            "name": "Laravel",
+            "class": "devicon-laravel-original"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain"
+          },
+          {
+            "name": "TailwindCSS",
+            "class": "devicon-tailwindcss-original"
+          },
+          {
+            "name": "Wordpress",
+            "class": "devicon-wordpress-plain"
+          },
+          {
+            "name": "MySql",
+            "class": "devicon-mysql-plain"
+          },
+          {
+            "name": "GitHub",
+            "class": "devicon-github-original"
           }
         ]
       },
@@ -118,14 +164,30 @@
         ],
         "splash": "/assets/portfolio/hotelengine/he-splash.jpg",
         "url": "https://github.com",
-        "technologies": [
+        "tech": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "name": "HTML5",
+            "class": "devicon-html5-plain"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "name": "CSS3",
+            "class": "devicon-css3-plain"
+          },
+          {
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain"
+          },
+          {
+            "name": "JQuery",
+            "class": "devicon-jquery-plain"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain"
+          },
+          {
+            "name": "Wordpress",
+            "class": "devicon-wordpress-plain"
           }
         ]
       },
@@ -138,18 +200,38 @@
         ],
         "splash": "/assets/portfolio/210hbw/210-splash.jpg",
         "url": "https://github.com",
-        "technologies": [
+        "tech": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML5",
+            "class": "devicon-html5-plain"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS3",
+            "class": "devicon-css3-plain"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain"
+          },
+          {
+            "name": "JQuery",
+            "class": "devicon-jquery-plain"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain"
+          },
+          {
+            "name": "Wordpress",
+            "class": "devicon-wordpress-plain"
+          },
+          {
+            "name": "MySql",
+            "class": "devicon-mysql-plain"
+          },
+          {
+            "name": "SalesForce",
+            "class": "devicon-salesforce-plain"
           }
         ]
       },
@@ -163,18 +245,26 @@
         ],
         "splash": "/assets/portfolio/vistaneuro/vista-splash.jpg",
         "url": "https://github.com",
-        "technologies": [
+        "tech": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML5",
+            "class": "devicon-html5-plain"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS3",
+            "class": "devicon-css3-plain"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "JQuery",
+            "class": "devicon-jquery-plain"
+          },
+          {
+            "name": "Wordpress",
+            "class": "devicon-wordpress-plain"
+          },
+          {
+            "name": "MySql",
+            "class": "devicon-mysql-plain"
           }
         ]
       },
@@ -193,18 +283,26 @@
         ],
         "splash": "/assets/portfolio/directec/dd-splash.jpg",
         "url": "https://github.com",
-        "technologies": [
+        "tech": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML5",
+            "class": "devicon-html5-plain"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS3",
+            "class": "devicon-css3-plain"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "JQuery",
+            "class": "devicon-jquery-plain"
+          },
+          {
+            "name": "Wordpress",
+            "class": "devicon-wordpress-plain"
+          },
+          {
+            "name": "MySql",
+            "class": "devicon-mysql-plain"
           }
         ]
       },
@@ -225,18 +323,34 @@
         ],
         "splash":  "/assets/portfolio/sweetcow/sw-splash.jpg",
         "url": "https://github.com",
-        "technologies": [
+        "tech": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML5",
+            "class": "devicon-html5-plain"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS3",
+            "class": "devicon-css3-plain"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "JQuery",
+            "class": "devicon-jquery-plain"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "name": "Wordpress",
+            "class": "devicon-wordpress-plain"
+          },
+          {
+            "name": "WooCommerce",
+            "class": "devicon-woocommerce-plain"
           }
         ]
       },
@@ -253,7 +367,7 @@
         ],
         "splash": "/assets/portfolio/flh/flh-splash.jpg",
         "url": "https://github.com",
-        "technologies": [
+        "tech": [
           {
             "class": "devicon-php-plain",
             "name": "PHP"
@@ -263,7 +377,7 @@
             "name": "WordPress"
           },
           {
-            "class": "devicon-hubspot-plain",
+            "class": "fa-brands fa-hubspot",
             "name": "HubSpot"
           }
         ]
@@ -282,18 +396,30 @@
         ],
         "splash": "/assets/portfolio/sob/sob-splash.jpg",
         "url": "https://github.com",
-        "technologies": [
+        "tech": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML5",
+            "class": "devicon-html5-plain"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS3",
+            "class": "devicon-css3-plain"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "JQuery",
+            "class": "devicon-jquery-plain"
+          },
+          {
+            "name": "Wordpress",
+            "class": "devicon-wordpress-plain"
+          },
+          {
+            "name": "MySql",
+            "class": "devicon-mysql-plain"
+          },
+          {
+            "name": "WooCommerce",
+            "class": "devicon-woocommerce-plain"
           }
         ]
       },
@@ -310,18 +436,34 @@
         ],
         "splash": "/assets/portfolio/fgb/fgb-splash.jpg",
         "url": "https://github.com",
-        "technologies": [
+        "tech": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML5",
+            "class": "devicon-html5-plain"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS3",
+            "class": "devicon-css3-plain"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "JQuery",
+            "class": "devicon-jquery-plain"
+          },
+          {
+            "name": "Wordpress",
+            "class": "devicon-wordpress-plain"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain"
+          },
+          {
+            "name": "MySql",
+            "class": "devicon-mysql-plain"
+          },
+          {
+            "name": "WooCommerce",
+            "class": "devicon-woocommerce-plain"
           }
         ]
       },
@@ -335,33 +477,53 @@
         ],
         "splash": "/assets/portfolio/gb/gb-splash.jpg",
         "url": "https://github.com",
-        "technologies": [
+        "tech": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML5",
+            "class": "devicon-html5-plain"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS3",
+            "class": "devicon-css3-plain"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "JQuery",
+            "class": "devicon-jquery-plain"
+          },
+          {
+            "name": "Wordpress",
+            "class": "devicon-wordpress-plain"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain"
+          },
+          {
+            "name": "MySql",
+            "class": "devicon-mysql-plain"
+          },
+          {
+            "name": "WooCommerce",
+            "class": "devicon-woocommerce-plain"
           }
         ]
       }
-      
     ],
     "funProjects": [
       {
-        "name": "ETHDenver 2024 Hackathon",
-        "shortTitle": "Camp BUIDL, Project Vice-Roll Casino",
-        "year": "2024",
-        "context": "web3, solidity, smart contracts",
-        "avatar": "https://assets-global.website-files.com/6509ee7744afed1c907f8f97/655050623557b10a706dae04_ETHDEN_logo_full_purple-p-500.png",
-        "technologies": [
+        "title": "ETHDenver 2024 Hackathon",
+        "shortDescription": "Web3- Camp BUIDL, Project Vice-Roll Casino.",
+        "description": "solidity, smart contracts",
+        "images": [
+          "/assets/portfolio/viceroll/vr-1.png",
+          "/assets/portfolio/viceroll/vr-2.png",
+          "/assets/portfolio/viceroll/vr-3.png"
+        ],
+        "splash": "/assets/portfolio/viceroll/vr-splash.jpg",
+        "url": "https://github.com",
+        "tech": [
           {
-            "class": "devicon-reactjs-plain",
+            "class": "devicon-react-original",
             "name": "ReactJS"
           },
           {
@@ -369,24 +531,29 @@
             "name": "NextJS"
           },
           {
-            "class": "devicon-csharp-plain",
+            "class": "devicon-solidity-plain",
             "name": "Solidity"
           }
         ]
       },
       {
-        "name": "Project ViperX 2021 DISH",
-        "shortTitle": "Prototype, Experimental",
-        "year": "2021",
-        "context": "AngularJS, HTML5",
-        "avatar": "https://d.newsweek.com/en/full/2348384/eyelash-viper.jpg?w=1600&h=1200&q=88&f=b7be94470ac7b9862388e41cab9ce299",
-        "technologies": [
+        "title": "ProjectX 2021",
+        "shortDescription": "Prototype, Experimental",
+        "description": "AngularJS prototype",
+        "images": [
+          "/assets/portfolio/projectx/px-1.png",
+          "/assets/portfolio/projectx/px-2.png",
+          "/assets/portfolio/projectx/px-3.png"
+        ],
+        "splash": "/assets/portfolio/projectx/px-splash.jpg",
+        "url": "https://github.com",
+        "tech": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "AngularJS"
           },
           {
-            "class": "devicon-html-plain",
+            "class": "devicon-nextjs-plain",
             "name": "HTML5"
           }
         ]
