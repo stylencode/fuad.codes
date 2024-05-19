@@ -65,12 +65,12 @@ html, body, p, ul, li
 .author-name{
   font-size: 46px;
   line-height: 60px;
-  margin-bottom: 30px;
 }
 
-.author-title{
-  font-size: 21px;
+.author-spelling{
+  font-size: 19px;
   font-weight: 700;
+  margin-bottom: 30px;
 }
 
 .author-description{

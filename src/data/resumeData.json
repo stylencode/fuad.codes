@@ -1,23 +1,23 @@
 {
     "main": {
       "name": "Fuad Talybov",
-      "title": "Web Developer",
-      "description": "I am a seasoned web developer who likes to build intuitive and engaging web experiences for the health, retail, media and tech industries. Problem-solver, self-starter, strategist and a team player.",
+      "spelling": "{ foo - odd }",
+      "description": "I am a seasoned web developer who likes to build intuitive and engaging web experiences for the health, retail, media and tech industries. I am problem-solver, self-starter, strategist and a team player.",
       "credentials": [
         {
-          "name": "github",
-          "url": "https://github.com",
-          "path": "M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"
-        },
-        {
           "name": "linkedIn",
-          "url": "https://www.linkedin.com",
+          "url": "https://www.linkedin.com/in/fuadtalybov/",
           "path": "M186.4 142.4c0 19-15.3 34.5-34.2 34.5 -18.9 0-34.2-15.4-34.2-34.5 0-19 15.3-34.5 34.2-34.5C171.1 107.9 186.4 123.4 186.4 142.4zM181.4 201.3h-57.8V388.1h57.8V201.3zM273.8 201.3h-55.4V388.1h55.4c0 0 0-69.3 0-98 0-26.3 12.1-41.9 35.2-41.9 21.3 0 31.5 15 31.5 41.9 0 26.9 0 98 0 98h57.5c0 0 0-68.2 0-118.3 0-50-28.3-74.2-68-74.2 -39.6 0-56.3 30.9-56.3 30.9v-25.2H273.8z"
         },
         {
           "name": "email",
           "url": "mailto:fuad.talybov@gmail.com?subject=Let's make a website&amp;body=So what's up?",
           "path": "M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/stylencode",
+          "path": "M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"
         }
       ],
       "image": "myProfile.jpg",
@@ -107,7 +107,8 @@
           "/assets/portfolio/threeships/rccw-1.png"
         ],
         "splash": "/assets/portfolio/threeships/3s-splash.jpg",
-        "url": "https://github.com",
+        "url": "https://www.three-ships.com",
+        "slug": "three-ships",
         "tech": [
           {
             "name": "HTML5",
@@ -156,14 +157,21 @@
         ]
       },
       {
-        "title": "Hotel Engine",
-        "description": "<p>With an outdated website codebase and no CMS was in place for regular updates and multi-user capability, HotelEngine team reached out to me and my friend at Brent Thelen Designs to build their website using modern code and best practice for both a scalable website and overall better user experience.</p><p>We created a completely custom theme using Wordpress CMS. Using Advanced Custom Fields Pro, we created flexible and customizable content that can accommodate for text, video and imagery and inline CSS styling. This was done on a page-level with a few clicks.</p><p>Design had to be strictly on-brand and follow all guidelines. We ensured that we could bring life and engagement to the user experience though a use of subtle animations and scroll-based behaviors present on every page. Everything also needed to load quickly and respond to any device with the correct feel.</p>",
+        "title": "Directional Drills",
+        "description": "<p>Directional Drills is another Wordpress driven custom theme build for a local heavy machinery and equipment broker. The main drive behind developing this project was to help a frustrated business owner who couldn't get previous developers deliver him a site after months of wasting his time. Knowing was burn out can do to client's desire to trust again has forced me to assume a pro-active position in order to prevent a negative experience.</p><p>From the get-go, I set up expectations for design, process, functional capabilities and was able to earn client's trust. We've explored his main competition and despite similar brand colors, products and industry, have been able to put together a look and feel that is distinct from competition yet modern and appealing.</p><p>Main challenge was to build a variety of similar product listings that break up into categories and have specific custom meta data that is filterable on the website. The other challenge was to allow for guest submission while allowing registered users to edit their previous listings. And one last final requirement was to allow simple administration and management of listings, as well as the ability to transfer over 400 existing listings from an old database.</p><p>To pull off this gig in quick times, I relied on several plugins like Elementor, FacetWP, Relevansi, Gravity Forms, WP Import and few others. I prefer not to use plugins when possible, but sometimes extending particular functionality myself is simply not cost-practical. I've constructed simple PHP queries to format data from old DB into a table. Using WP Import, CSV and mapping of fields, I moved over 400 listings including featured images into the new Wordpress Database.</p>",
         "images": [
-          "/assets/portfolio/hotelengine/hotel-engine-2.jpg",
-          "/assets/portfolio/hotelengine/hotel-engine-2.jpg"
+          "/assets/portfolio/directec/dt-main.jpg",
+          "/assets/portfolio/directec/dd-1.png",
+          "/assets/portfolio/directec/dd-2.png",
+          "/assets/portfolio/directec/dd-3.png",
+          "/assets/portfolio/directec/dd-4.png",
+          "/assets/portfolio/directec/dd-5.png",
+          "/assets/portfolio/directec/dd-6.png",
+          "/assets/portfolio/directec/dd-9.png"
         ],
-        "splash": "/assets/portfolio/hotelengine/he-splash.jpg",
-        "url": "https://github.com",
+        "splash": "/assets/portfolio/directec/dd-splash.jpg",
+        "url": "https://www.directionaldrills.com",
+        "slug": "directec",
         "tech": [
           {
             "name": "HTML5",
@@ -174,20 +182,16 @@
             "class": "devicon-css3-plain"
           },
           {
-            "name": "JavaScript",
-            "class": "devicon-javascript-plain"
-          },
-          {
             "name": "JQuery",
             "class": "devicon-jquery-plain"
           },
           {
-            "name": "Bootstrap",
-            "class": "devicon-bootstrap-plain"
-          },
-          {
             "name": "Wordpress",
             "class": "devicon-wordpress-plain"
+          },
+          {
+            "name": "MySql",
+            "class": "devicon-mysql-plain"
           }
         ]
       },
@@ -236,77 +240,6 @@
         ]
       },
       {
-        "title": "Vista Neuro",
-        "description": "App that handles adoption  :)",
-        "images": [
-          "/assets/portfolio/vistaneuro/vn-1.png",
-          "/assets/portfolio/vistaneuro/vn-2.png",
-          "/assets/portfolio/vistaneuro/vn-3.png"
-        ],
-        "splash": "/assets/portfolio/vistaneuro/vista-splash.jpg",
-        "url": "https://github.com",
-        "tech": [
-          {
-            "name": "HTML5",
-            "class": "devicon-html5-plain"
-          },
-          {
-            "name": "CSS3",
-            "class": "devicon-css3-plain"
-          },
-          {
-            "name": "JQuery",
-            "class": "devicon-jquery-plain"
-          },
-          {
-            "name": "Wordpress",
-            "class": "devicon-wordpress-plain"
-          },
-          {
-            "name": "MySql",
-            "class": "devicon-mysql-plain"
-          }
-        ]
-      },
-      {
-        "title": "Directional Drills",
-        "description": "<p>Directional Drills is another Wordpress driven custom theme build for a local heavy machinery and equipment broker. The main drive behind developing this project was to help a frustrated business owner who couldn't get previous developers deliver him a site after months of wasting his time. Knowing was burn out can do to client's desire to trust again has forced me to assume a pro-active position in order to prevent a negative experience.</p><p>From the get-go, I set up expectations for design, process, functional capabilities and was able to earn client's trust. We've explored his main competition and despite similar brand colors, products and industry, have been able to put together a look and feel that is distinct from competition yet modern and appealing.</p><p>Main challenge was to build a variety of similar product listings that break up into categories and have specific custom meta data that is filterable on the website. The other challenge was to allow for guest submission while allowing registered users to edit their previous listings. And one last final requirement was to allow simple administration and management of listings, as well as the ability to transfer over 400 existing listings from an old database.</p><p>To pull off this gig in quick times, I relied on several plugins like Elementor, FacetWP, Relevansi, Gravity Forms, WP Import and few others. I prefer not to use plugins when possible, but sometimes extending particular functionality myself is simply not cost-practical. I've constructed simple PHP queries to format data from old DB into a table. Using WP Import, CSV and mapping of fields, I moved over 400 listings including featured images into the new Wordpress Database.</p>",
-        "images": [
-          "/assets/portfolio/directec/dt-main.jpg",
-          "/assets/portfolio/directec/dd-1.png",
-          "/assets/portfolio/directec/dd-2.png",
-          "/assets/portfolio/directec/dd-3.png",
-          "/assets/portfolio/directec/dd-4.png",
-          "/assets/portfolio/directec/dd-5.png",
-          "/assets/portfolio/directec/dd-6.png",
-          "/assets/portfolio/directec/dd-9.png"
-        ],
-        "splash": "/assets/portfolio/directec/dd-splash.jpg",
-        "url": "https://github.com",
-        "tech": [
-          {
-            "name": "HTML5",
-            "class": "devicon-html5-plain"
-          },
-          {
-            "name": "CSS3",
-            "class": "devicon-css3-plain"
-          },
-          {
-            "name": "JQuery",
-            "class": "devicon-jquery-plain"
-          },
-          {
-            "name": "Wordpress",
-            "class": "devicon-wordpress-plain"
-          },
-          {
-            "name": "MySql",
-            "class": "devicon-mysql-plain"
-          }
-        ]
-      },
-      {
         "title": "SweetCow Ice Cream",
         "description": "<p>Selling amazing freshly made ice cream and having a great looking site isn't enough for Sweetcow Ice Cream. One of the owners, working previously as a marketing exec, made it a goal to create some really cool tools as extensions of the brand facing internally and externally.</p><p>My introduction to the relationship started with the task of implementing an e-Commerce into a rebranded Wordpress site. In collaboration with Brent Thelen Design, who came up with the look and feel and set initial bootstrap theme, I've added the online shopping capabilities with abilities to purchase pre-loaded gift cards, and specific shipping rates for perishables based on internal shipping tables.</p><p>After the implementation of WooComm and the rebrand of site, I was approached with another challenge to solve. The challenge was to build a tablet-friendly, multi-user, multi-store Inventory Content Management System that allowed staff to update inventory, manage flavors, recipes, review reports and even predict upcoming inventory needs. A similar system has already existed sitting on an outdated Flex software. It has become extremely unstable and too slow to be useful. Without an existing documentation and no references, I was tasked to rebuild the system making it faster, scalable, easy to use, and responsive. Utilizing HTML 5, PHP, Angular, and JQuery, the new system came to life in early 2019 after several months of development. It gained immediate popularity internally, has resolved previous challenges, and opened up opportunities to add more functionalities with ease.</p><p>The final integral part of this project was a Loyalty Application, available for iOS and Android phones. Although I did not develop the code for the app, it is worth to note that the application's functionally primary depends on the Inventory CMS database to create push notifications almost instantly, letting users know when their favorite flavors are now available at certain stores.</p>",
         "images": [
@@ -322,7 +255,8 @@
           "/assets/portfolio/sweetcow/sw-main.png"
         ],
         "splash":  "/assets/portfolio/sweetcow/sw-splash.jpg",
-        "url": "https://github.com",
+        "url": "https://www.sweetcow.com",
+        "slug": "sweetcow",
         "tech": [
           {
             "name": "HTML5",
@@ -366,7 +300,8 @@
           "/assets/portfolio/flh/flh-7.png"
         ],
         "splash": "/assets/portfolio/flh/flh-splash.jpg",
-        "url": "https://github.com",
+        "url": "https://www.feellovehomes.com",
+        "slug": "flh",
         "tech": [
           {
             "class": "devicon-php-plain",
@@ -395,7 +330,8 @@
           "/assets/portfolio/sob/sob-7.png"
         ],
         "splash": "/assets/portfolio/sob/sob-splash.jpg",
-        "url": "https://github.com",
+        "url": "https://www.schoolofbreaking.com",
+        "slug": "school-of-breaking",
         "tech": [
           {
             "name": "HTML5",
@@ -422,9 +358,62 @@
             "class": "devicon-woocommerce-plain"
           }
         ]
+      }
+    ],
+    "funProjects": [
+      {
+        "title": "ETHDenver 2024 Hackathon",
+        "shortDescription": "Web3 - Camp BUIDL, Project Vice-Roll Casino.",
+        "description": "solidity, smart contracts - coming soon",
+        "images": [
+          "/assets/portfolio/viceroll/vr-1.png",
+          "/assets/portfolio/viceroll/vr-2.png",
+          "/assets/portfolio/viceroll/vr-3.png"
+        ],
+        "splash": "/assets/portfolio/viceroll/vr-splash.png",
+        "url": "https://www.vice-roll.casino",
+        "slug": "vice-roll",
+        "tech": [
+          {
+            "class": "devicon-react-original",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-nextjs-plain",
+            "name": "NextJS"
+          },
+          {
+            "class": "devicon-solidity-plain",
+            "name": "Solidity"
+          }
+        ]
+      },
+      {
+        "title": "Viper-X 2021",
+        "shortDescription": "Prototype, Experimental",
+        "description": "AngularJS prototype - coming soon",
+        "images": [
+          "/assets/portfolio/projectx/px-1.png",
+          "/assets/portfolio/projectx/px-2.png",
+          "/assets/portfolio/projectx/px-3.png"
+        ],
+        "splash": "/assets/portfolio/projectx/px-splash.png",
+        "url": null,
+        "slug": "viperx",
+        "tech": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "AngularJS"
+          },
+          {
+            "class": "devicon-nextjs-plain",
+            "name": "HTML5"
+          }
+        ]
       },
       {
         "title": "Fun Gift Boxes",
+        "shortDescription": "Prototype, Experimental",
         "description": "<p>Pre-curated and customized gift boxes is a unique and memorable way to express gratitude, love, admiration, or simply to send good vibes for someone on your mind. I was tasked with translating several flat-coded pages into Wordpress while creating additional templates and figuring out the best approach to handle the customization of products.</p><p>After building the initial Wordpress theme using a 12 column Bootstrap 3 layout grid and creating additional templates for all WooCommerce touch-points, I began exploring a number of multi-step plugins and product customizers that can allow easier customization process. I've settled on a WooCommerce Composite Plugin and with minor tweaks the plugin has allowed for the needed functionality. In addition, the shop admin liked the ability to further customize the array of available designs without increasing the number of sku's she carries in the store.</p><p>Overall, the site has received a lot of positive feedback for it's ease of use, and great look. The owner is now confidently expanding her network of clients and suppliers without having to worry about her online representation.</p>",
         "images": [
           "/assets/portfolio/fgb/fgb-1.png",
@@ -435,7 +424,8 @@
           "/assets/portfolio/fgb/fgb-7.png"
         ],
         "splash": "/assets/portfolio/fgb/fgb-splash.jpg",
-        "url": "https://github.com",
+        "url": "https://www.fungiftboxes.com",
+        "slug": "fgb",
         "tech": [
           {
             "name": "HTML5",
@@ -469,6 +459,7 @@
       },
       {
         "title": "GenerationBBOY",
+        "shortDescription": "Prototype, Experimental",
         "description": "<p>WooCommerce Shop for a breakdance brand - Generation BBoy </p>",
         "images": [
           "/assets/portfolio/gb/gb-1.png",
@@ -476,7 +467,8 @@
           "/assets/portfolio/gb/gb-3.png"
         ],
         "splash": "/assets/portfolio/gb/gb-splash.jpg",
-        "url": "https://github.com",
+        "url": "https://www.generationbboy.com",
+        "slug": "generation-bboy",
         "tech": [
           {
             "name": "HTML5",
@@ -507,54 +499,77 @@
             "class": "devicon-woocommerce-plain"
           }
         ]
-      }
-    ],
-    "funProjects": [
+      },
       {
-        "title": "ETHDenver 2024 Hackathon",
-        "shortDescription": "Web3 - Camp BUIDL, Project Vice-Roll Casino.",
-        "description": "solidity, smart contracts - coming soon",
+        "title": "Hotel Engine",
+        "shortDescription": "Wordpress, Bootstrap",
+        "description": "<p>With an outdated website codebase and no CMS was in place for regular updates and multi-user capability, HotelEngine team reached out to me and my friend at Brent Thelen Designs to build their website using modern code and best practice for both a scalable website and overall better user experience.</p><p>We created a completely custom theme using Wordpress CMS. Using Advanced Custom Fields Pro, we created flexible and customizable content that can accommodate for text, video and imagery and inline CSS styling. This was done on a page-level with a few clicks.</p><p>Design had to be strictly on-brand and follow all guidelines. We ensured that we could bring life and engagement to the user experience though a use of subtle animations and scroll-based behaviors present on every page. Everything also needed to load quickly and respond to any device with the correct feel.</p>",
         "images": [
-          "/assets/portfolio/viceroll/vr-1.png",
-          "/assets/portfolio/viceroll/vr-2.png",
-          "/assets/portfolio/viceroll/vr-3.png"
+          "/assets/portfolio/hotelengine/hotel-engine-2.jpg",
+          "/assets/portfolio/hotelengine/hotel-engine-2.jpg"
         ],
-        "splash": "/assets/portfolio/viceroll/vr-splash.png",
-        "url": "https://github.com",
+        "splash": "/assets/portfolio/hotelengine/he-splash.jpg",
+        "url": "https://www.hotelengine.com",
+        "slug": "he",
         "tech": [
           {
-            "class": "devicon-react-original",
-            "name": "ReactJS"
+            "name": "HTML5",
+            "class": "devicon-html5-plain"
           },
           {
-            "class": "devicon-nextjs-plain",
-            "name": "NextJS"
+            "name": "CSS3",
+            "class": "devicon-css3-plain"
           },
           {
-            "class": "devicon-solidity-plain",
-            "name": "Solidity"
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain"
+          },
+          {
+            "name": "JQuery",
+            "class": "devicon-jquery-plain"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain"
+          },
+          {
+            "name": "Wordpress",
+            "class": "devicon-wordpress-plain"
           }
         ]
       },
       {
-        "title": "Viper-X 2021",
-        "shortDescription": "Prototype, Experimental",
-        "description": "AngularJS prototype - coming soon",
+        "title": "Vista Neuro",
+        "shortDescription": "Wordpress, Avada Theme",
+        "description": "<p>Vista Neuro was another fun project for a colleague of mine. They needed a simple brochure-style site that could be easily updated by someone non-technical. We only had a logo and a limited budget to work with. The budget did not permit me to design and build a fully custom theme from scratch.</p><p>As a solution, we found an existing theme on ThemeForest that functionally and visually worked for the client. With some massaging, I was able to modify the purchased theme into the look and feel that the client desired. After all of the content flowed in and documentation on site usage created, we launched in under a week of total time.</p>",
         "images": [
-          "/assets/portfolio/projectx/px-1.png",
-          "/assets/portfolio/projectx/px-2.png",
-          "/assets/portfolio/projectx/px-3.png"
+          "/assets/portfolio/vistaneuro/vn-1.png",
+          "/assets/portfolio/vistaneuro/vn-2.png",
+          "/assets/portfolio/vistaneuro/vn-3.png"
         ],
-        "splash": "/assets/portfolio/projectx/px-splash.png",
-        "url": "https://github.com",
+        "splash": "/assets/portfolio/vistaneuro/vista-splash.jpg",
+        "url": "https://www.vista-neuro.com",
+        "slug": "vista-neuro",
         "tech": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "AngularJS"
+            "name": "HTML5",
+            "class": "devicon-html5-plain"
           },
           {
-            "class": "devicon-nextjs-plain",
-            "name": "HTML5"
+            "name": "CSS3",
+            "class": "devicon-css3-plain"
+          },
+          {
+            "name": "JQuery",
+            "class": "devicon-jquery-plain"
+          },
+          {
+            "name": "Wordpress",
+            "class": "devicon-wordpress-plain"
+          },
+          {
+            "name": "MySql",
+            "class": "devicon-mysql-plain"
           }
         ]
       }
