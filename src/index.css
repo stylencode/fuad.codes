@@ -27,6 +27,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   
   background-color: rgb(244, 244, 244);
+  font-family: 'Roboto'; 
 }
 
 code {
@@ -62,19 +63,19 @@ html, body, p, ul, li
 }
 
 .author-name{
-  font-size: 32px;
-  font-family: 'Roboto';
+  font-size: 46px;
+  line-height: 60px;
+  margin-bottom: 30px;
 }
 
 .author-title{
   font-size: 21px;
-  font-family: 'Roboto';
   font-weight: 700;
 }
 
 .author-description{
   padding: 5px 0 20px 0;
-  font-size: 16px;
+  font-size: 18px;
   font-family: 'Roboto';
 }
 

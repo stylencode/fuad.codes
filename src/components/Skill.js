@@ -7,7 +7,7 @@ function Skill({skill}) {
     const s = skill;
 
   return (
-        <div className='skill-item'>
+        <div className='skill-item hover:text-blue-900 cursor-pointer'>
             {s.name} 
             <i class={s.class}></i>
         </div>

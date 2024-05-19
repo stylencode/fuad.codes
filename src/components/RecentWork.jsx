@@ -12,7 +12,7 @@ function RecentWork({projects}) {
         Recent Work
       </h2>
           <div className="mt-5">
-              <div className="columns-1 sm:columns-2 sm:gap-8 lg:columns-2 xl:columns-2 [&>img:not(:first-child)]:mt-8">
+              <div className="columns-2 sm:gap-4 lg:columns-2 xl:columns-2 [&>img:not(:first-child)]:mt-8">
                 {projectsData.map((p) => (
                   <Link to={`/${p.title}`} state = {{ project: p}}>
                     <ProjectSplash project={p}/>

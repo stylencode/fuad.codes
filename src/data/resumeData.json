@@ -1,8 +1,8 @@
 {
     "main": {
       "name": "Fuad Talybov",
-      "title": "Front-end Developer",
-      "description": "I am an experienced full-stack developer who likes to build useful products making daily interactions with technology more intuitive.",
+      "title": "Web Developer",
+      "description": "I am a seasoned web developer who likes to build intuitive and engaging web experiences for the health, retail, media and tech industries. Problem-solver, self-starter, strategist and a team player.",
       "credentials": [
         {
           "name": "github",
@@ -89,7 +89,7 @@
     "projects": [
       {
         "title": "Three Ships",
-        "description": "Pre-curated and customized gift boxes is a unique and memorable way to express gratitude, love, admiration, or simply to send good vibes for someone on your mind. WP and WooComm driven, the site features a simple, intuitive process for customizing your box that allows further degree of product customization.",
+        "description": "<p>For a few years I had a fantastic opportunity to work as a Sr. Web Developer at Three Ships (3S Auto). I led all areas of web development for the vertical and managed a portfolio of several high-revenue web properties.</p><p>Some of the properties are integrated with large SEO players like Marketwatch.com, Motor1.com, Jalopnik.com, Quartz.com and many others.</p><p>Specific project details are a matter of NDA, so unfortunately I can only highlight the nature of the work I completed.</p><p>During my time here, I built and managed an agile team of 6, including a scrum master, QA engineer, and a team of offshore developers.</p><p>We were responsible for new site builds, maintaining existing websites, migration and re-platforming, creation of new functionality for Paid, CRO and SEO team, creation of new Gutenberg blocks (ACF and React), scoping additional development opportunities, and near real-time support to all stakeholders.</p><p>I utilized DevOPS as a framework to optimize team’s intake, increase the output, and maintain a tighter integration with the business units.</p>",
         "images": [
           "/assets/portfolio/threeships/mw-logo.png",
           "/assets/portfolio/threeships/m1-logo.png",
@@ -157,7 +157,7 @@
       },
       {
         "title": "Hotel Engine",
-        "description": "Testing our new camera and photo editor app.",
+        "description": "<p>With an outdated website codebase and no CMS was in place for regular updates and multi-user capability, HotelEngine team reached out to me and my friend at Brent Thelen Designs to build their website using modern code and best practice for both a scalable website and overall better user experience.</p><p>We created a completely custom theme using Wordpress CMS. Using Advanced Custom Fields Pro, we created flexible and customizable content that can accommodate for text, video and imagery and inline CSS styling. This was done on a page-level with a few clicks.</p><p>Design had to be strictly on-brand and follow all guidelines. We ensured that we could bring life and engagement to the user experience though a use of subtle animations and scroll-based behaviors present on every page. Everything also needed to load quickly and respond to any device with the correct feel.</p>",
         "images": [
           "/assets/portfolio/hotelengine/hotel-engine-2.jpg",
           "/assets/portfolio/hotelengine/hotel-engine-2.jpg"
@@ -193,7 +193,7 @@
       },
       {
         "title": "2-10 Home Buyers",
-        "description": "App that allows to view the object via drone perspective.",
+        "description": "<p>Between years 2019 and 2021, I had an opportunity to work on the 2-10 HBW marketing team and manifest several great projects. First of all, we rebuilt 2-10.com WordPress-driven website resulting in dramatic increase of returning traffic, stabilization of eCommerce revenues, and a close to an 80% conversion rate lift. During this time, I played a key role in Digital Transformation project working as a liaison between shareholders to ensure successful transition of user facing UIs and proper back-end data.</p><p> I developed various lead-acquisition focused landing pages, deployed A/B Split testing, implemented necessary tracking. </p><p>In addition, I worked with backend and operational IT teams to develop more functionality, and maintain the website on all servers. Introduced user-centric approach and MVP ideas to the immediate team. Improved site speed performance by 110%.</p>",
         "images": [
           "/assets/portfolio/210hbw/210-1.jpg",
           "/assets/portfolio/210hbw/210-1.jpg"
@@ -469,7 +469,7 @@
       },
       {
         "title": "GenerationBBOY",
-        "description": "Pre-curated and customized gift boxes is a unique and memorable way to express gratitude, love, admiration, or simply to send good vibes for someone on your mind. WP and WooComm driven, the site features a simple, intuitive process for customizing your box that allows further degree of product customization.",
+        "description": "<p>WooCommerce Shop for a breakdance brand - Generation BBoy </p>",
         "images": [
           "/assets/portfolio/gb/gb-1.png",
           "/assets/portfolio/gb/gb-2.png",
@@ -512,8 +512,8 @@
     "funProjects": [
       {
         "title": "ETHDenver 2024 Hackathon",
-        "shortDescription": "Web3- Camp BUIDL, Project Vice-Roll Casino.",
-        "description": "solidity, smart contracts",
+        "shortDescription": "Web3 - Camp BUIDL, Project Vice-Roll Casino.",
+        "description": "solidity, smart contracts - coming soon",
         "images": [
           "/assets/portfolio/viceroll/vr-1.png",
           "/assets/portfolio/viceroll/vr-2.png",
@@ -537,9 +537,9 @@
         ]
       },
       {
-        "title": "ProjectX 2021",
+        "title": "Viper-X 2021",
         "shortDescription": "Prototype, Experimental",
-        "description": "AngularJS prototype",
+        "description": "AngularJS prototype - coming soon",
         "images": [
           "/assets/portfolio/projectx/px-1.png",
           "/assets/portfolio/projectx/px-2.png",
