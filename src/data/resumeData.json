@@ -371,8 +371,8 @@
           "/assets/portfolio/viceroll/vr-2.png",
           "/assets/portfolio/viceroll/vr-3.png"
         ],
-        "splash": "/assets/portfolio/viceroll/vr-splash.png",
-        "url": "https://www.vice-roll.casino",
+        "splash": "/assets/portfolio/viceroll/ethdenver-logo.jpg",
+        "url": "https://www.viceroll.casino",
         "slug": "vice-roll",
         "tech": [
           {
@@ -390,29 +390,6 @@
         ]
       },
       {
-        "title": "Viper-X 2021",
-        "shortDescription": "Prototype, AngularJS, Bootstrap",
-        "description": "AngularJS prototype - coming soon",
-        "images": [
-          "/assets/portfolio/projectx/px-1.png",
-          "/assets/portfolio/projectx/px-2.png",
-          "/assets/portfolio/projectx/px-3.png"
-        ],
-        "splash": "/assets/portfolio/projectx/px-splash.png",
-        "url": null,
-        "slug": "viperx",
-        "tech": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "AngularJS"
-          },
-          {
-            "class": "devicon-nextjs-plain",
-            "name": "HTML5"
-          }
-        ]
-      },
-      {
         "title": "Fun Gift Boxes",
         "shortDescription": "Wordpress, WooCommerce, Custom Theme, Bootstrap",
         "description": "<p>Pre-curated and customized gift boxes is a unique and memorable way to express gratitude, love, admiration, or simply to send good vibes for someone on your mind. I was tasked with translating several flat-coded pages into Wordpress while creating additional templates and figuring out the best approach to handle the customization of products.</p><p>After building the initial Wordpress theme using a 12 column Bootstrap 3 layout grid and creating additional templates for all WooCommerce touch-points, I began exploring a number of multi-step plugins and product customizers that can allow easier customization process. I've settled on a WooCommerce Composite Plugin and with minor tweaks the plugin has allowed for the needed functionality. In addition, the shop admin liked the ability to further customize the array of available designs without increasing the number of sku's she carries in the store.</p><p>Overall, the site has received a lot of positive feedback for it's ease of use, and great look. The owner is now confidently expanding her network of clients and suppliers without having to worry about her online representation.</p>",
@@ -424,7 +401,7 @@
           "/assets/portfolio/fgb/fgb-6.png",
           "/assets/portfolio/fgb/fgb-7.png"
         ],
-        "splash": "/assets/portfolio/fgb/fgb-splash.jpg",
+        "splash": "/assets/portfolio/fgb/fgb-logo.jpg",
         "url": "https://www.fungiftboxes.com",
         "slug": "fgb",
         "tech": [
@@ -467,7 +444,7 @@
           "/assets/portfolio/gb/gb-2.png",
           "/assets/portfolio/gb/gb-3.png"
         ],
-        "splash": "/assets/portfolio/gb/gb-splash.jpg",
+        "splash": "/assets/portfolio/gb/gb-logo.jpg",
         "url": "https://www.generationbboy.com",
         "slug": "generation-bboy",
         "tech": [
@@ -509,7 +486,7 @@
           "/assets/portfolio/hotelengine/hotel-engine-2.jpg",
           "/assets/portfolio/hotelengine/hotel-engine-2.jpg"
         ],
-        "splash": "/assets/portfolio/hotelengine/he-splash.jpg",
+        "splash": "/assets/portfolio/hotelengine/he-logo.jpg",
         "url": "https://www.hotelengine.com",
         "slug": "he",
         "tech": [
@@ -548,7 +525,7 @@
           "/assets/portfolio/vistaneuro/vn-2.png",
           "/assets/portfolio/vistaneuro/vn-3.png"
         ],
-        "splash": "/assets/portfolio/vistaneuro/vista-splash.jpg",
+        "splash": "/assets/portfolio/vistaneuro/vn-logo.jpg",
         "url": "https://www.vistaneuro.com",
         "slug": "vista-neuro",
         "tech": [
@@ -571,6 +548,29 @@
           {
             "name": "MySql",
             "class": "devicon-mysql-plain"
+          }
+        ]
+      },
+      {
+        "title": "Viper-X 2021",
+        "shortDescription": "Prototype, AngularJS, Bootstrap",
+        "description": "AngularJS prototype - coming soon",
+        "images": [
+          "/assets/portfolio/projectx/px-1.png",
+          "/assets/portfolio/projectx/px-2.png",
+          "/assets/portfolio/projectx/px-3.png"
+        ],
+        "splash": "/assets/portfolio/projectx/viperx-logo.jpg",
+        "url": null,
+        "slug": "viperx",
+        "tech": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "AngularJS"
+          },
+          {
+            "class": "devicon-nextjs-plain",
+            "name": "HTML5"
           }
         ]
       }
