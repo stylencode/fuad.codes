@@ -2,7 +2,7 @@
     "main": {
       "name": "Fuad Talybov",
       "spelling": "{ foo - odd }",
-      "description": "I am a seasoned web developer who likes to build intuitive and engaging web experiences for the health, retail, media and tech industries. I am problem-solver, self-starter, strategist and a team player.",
+      "description": "I am a seasoned web developer who likes to build intuitive and engaging web experiences for the health, retail, media and tech industries. I am a problem-solver, self-starter, strategist and a team player.",
       "credentials": [
         {
           "name": "linkedIn",
@@ -203,7 +203,8 @@
           "/assets/portfolio/210hbw/210-1.jpg"
         ],
         "splash": "/assets/portfolio/210hbw/210-splash.jpg",
-        "url": "https://github.com",
+        "url": "https://www.2-10.com",
+        "slug": "210hbw",
         "tech": [
           {
             "name": "HTML5",
@@ -300,7 +301,7 @@
           "/assets/portfolio/flh/flh-7.png"
         ],
         "splash": "/assets/portfolio/flh/flh-splash.jpg",
-        "url": "https://www.feellovehomes.com",
+        "url": "https://feellovehomes.com",
         "slug": "flh",
         "tech": [
           {
@@ -362,8 +363,8 @@
     ],
     "funProjects": [
       {
-        "title": "ETHDenver 2024 Hackathon",
-        "shortDescription": "Web3 - Camp BUIDL, Project Vice-Roll Casino.",
+        "title": "ETHDenver Hackathon, 2024",
+        "shortDescription": "Web3 - ViceRoll Casino.",
         "description": "solidity, smart contracts - coming soon",
         "images": [
           "/assets/portfolio/viceroll/vr-1.png",
@@ -390,7 +391,7 @@
       },
       {
         "title": "Viper-X 2021",
-        "shortDescription": "Prototype, Experimental",
+        "shortDescription": "Prototype, AngularJS, Bootstrap",
         "description": "AngularJS prototype - coming soon",
         "images": [
           "/assets/portfolio/projectx/px-1.png",
@@ -413,7 +414,7 @@
       },
       {
         "title": "Fun Gift Boxes",
-        "shortDescription": "Prototype, Experimental",
+        "shortDescription": "Wordpress, WooCommerce, Custom Theme, Bootstrap",
         "description": "<p>Pre-curated and customized gift boxes is a unique and memorable way to express gratitude, love, admiration, or simply to send good vibes for someone on your mind. I was tasked with translating several flat-coded pages into Wordpress while creating additional templates and figuring out the best approach to handle the customization of products.</p><p>After building the initial Wordpress theme using a 12 column Bootstrap 3 layout grid and creating additional templates for all WooCommerce touch-points, I began exploring a number of multi-step plugins and product customizers that can allow easier customization process. I've settled on a WooCommerce Composite Plugin and with minor tweaks the plugin has allowed for the needed functionality. In addition, the shop admin liked the ability to further customize the array of available designs without increasing the number of sku's she carries in the store.</p><p>Overall, the site has received a lot of positive feedback for it's ease of use, and great look. The owner is now confidently expanding her network of clients and suppliers without having to worry about her online representation.</p>",
         "images": [
           "/assets/portfolio/fgb/fgb-1.png",
@@ -459,7 +460,7 @@
       },
       {
         "title": "GenerationBBOY",
-        "shortDescription": "Prototype, Experimental",
+        "shortDescription": "Wordpress, WooCommerce",
         "description": "<p>WooCommerce Shop for a breakdance brand - Generation BBoy </p>",
         "images": [
           "/assets/portfolio/gb/gb-1.png",
@@ -548,7 +549,7 @@
           "/assets/portfolio/vistaneuro/vn-3.png"
         ],
         "splash": "/assets/portfolio/vistaneuro/vista-splash.jpg",
-        "url": "https://www.vista-neuro.com",
+        "url": "https://www.vistaneuro.com",
         "slug": "vista-neuro",
         "tech": [
           {

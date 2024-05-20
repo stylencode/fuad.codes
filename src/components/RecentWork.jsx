@@ -14,13 +14,12 @@ function RecentWork({projects}) {
           <div className="mt-5">
               <div className="columns-2 sm:gap-4 lg:columns-2 xl:columns-2 [&>img:not(:first-child)]:mt-8">
                 {projectsData.map((p) => (
-                  <Link to={`/${p.title}`} state = {{ project: p}}>
+                  <Link to={`/${p.slug}`} state = {{ project: p}}>
                     <ProjectSplash project={p}/>
                   </Link>
                 ))}
             </div>
           </div>    
- 
     </div>
   );
 }

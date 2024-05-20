@@ -9,7 +9,7 @@ console.log(credentials);
       {credentials.map((c)=> (
 
           <div className="mr-10 text-right ">
-            <a href={c.url} className={c.class}>
+            <a href={c.url} className={c.class} target="_blank">
               <svg className="social-icon  w-[40px] text-center m-auto" viewBox="0 0 512 512"><path d={c.path}></path></svg>
             
               <h5 className="credential-title text-center m-auto">

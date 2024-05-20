@@ -3,6 +3,7 @@ import Gallery from '../components/Gallery';
 import {useNavigate} from 'react-router-dom';
 import parse from 'html-react-parser';
 import { useLocation } from 'react-router-dom';
+import { Button } from '@material-tailwind/react';
 
 function ProjectDetails() {
 
@@ -11,7 +12,7 @@ const returnOnClick = () => navigate('/', { replace: true });
 
 const { state } = useLocation();
 const project = state && state.project;
-console.log(project);
+//console.log(project);
 
   return (
     <div>
@@ -33,6 +34,12 @@ console.log(project);
               <img src={project.splash} className='splash-image'/>
 
               <ProjectStack projectStack={project.tech} />
+
+              <div className="text-center pb-5">
+                <a target="blank" href={project.url} className="m-auto bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow">
+                {project.url}
+                </a>
+              </div>
 
               <div className="project-description my-4 text-blueGray-500 text-lg leading-relaxed">
                 {parse(project.description)}
