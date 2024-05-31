@@ -73,6 +73,8 @@ html, body, p, ul, li
 .author-name{
   font-size: 46px;
   line-height: 60px;
+  font-weight: bold;
+  margin-left: -5px;
 }
 
 .author-spelling{

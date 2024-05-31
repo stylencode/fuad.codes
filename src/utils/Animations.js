@@ -10,20 +10,8 @@ export default function Animations() {
    gsap.to('.author-name', {duration:.5, opacity: 1 });
    gsap.to('.author-spelling', {duration:.5, opacity:1});
    gsap.to('.author-description', {duration:1, opacity:1 });
-   gsap.to('.cred-item', {duration:2, opacity:3, stagger: .1,  delay: 1});
-
-    let recentWorkTitle = gsap.timeline({
-        // yes, we can add it to an entire timeline!
-        scrollTrigger: {
-            trigger: '.recent-work',
-            start: '-260px center', // when the top of the trigger hits the top of the viewport
-            end: '20% center', // end after scrolling 500px beyond the start
-            scrub: true, // smooth scrubbing, takes 1 second to "catch up" to the scrollbar
-            markers: false,
-            duration: 3,
-            toggleActions: 'play reverse'
-        }
-    });
+   gsap.to('.cred-item', {duration:2, opacity:1, stagger: .1,  delay: 1});
+   gsap.to('.recent-work', {duration:2, opacity:1,  delay: 3});
 
     let recentWork = gsap.timeline({
         // yes, we can add it to an entire timeline!
@@ -91,8 +79,7 @@ export default function Animations() {
         }
     });
 
-    
-    recentWorkTitle.to('.recent-work', { opacity: 1 });
+
     recentWork.to('.project-item', { opacity: 1, duration: 5,  stagger: .1  });
     funProjectsTitle.to('.fun-projects', { opacity: 1 });
     funProjects.to('.fun-project-item', { opacity: 1, duration: 5, stagger: 1});
