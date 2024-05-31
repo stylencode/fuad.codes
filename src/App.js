@@ -7,6 +7,7 @@ import { Route, Routes } from 'react-router-dom';
 function App() {
 
   const [data, setData] = useState(null);
+
   
   useEffect(() => {
     // Set the data from the JSON file when the component mounts

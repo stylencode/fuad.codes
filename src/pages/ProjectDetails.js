@@ -3,12 +3,13 @@ import Gallery from '../components/Gallery';
 import {useNavigate} from 'react-router-dom';
 import parse from 'html-react-parser';
 import { useLocation } from 'react-router-dom';
-import { Button } from '@material-tailwind/react';
+import Animations from '../utils/Animations';
 
 function ProjectDetails() {
 
 const navigate = useNavigate();
 const returnOnClick = () => navigate('/', { replace: true });
+const animations = Animations();
 
 const { state } = useLocation();
 const project = state && state.project;

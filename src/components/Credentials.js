@@ -1,14 +1,14 @@
 
 function Credentials({credentials}) {
 
-console.log(credentials);
+//console.log(credentials);
 
   return (
-    <div id="credentials" className="pt-3 mb-20 pb-10 text-black flex gap-5 justify-start">
+    <div id="credentials" className="pt-3 mb-20 pb-10 text-black flex gap-5 justify-start ">
 
       {credentials.map((c)=> (
 
-          <div className="mr-10 text-right ">
+          <div className="mr-10 text-right cred-item opacity-0">
             <a href={c.url} className={c.class} target="_blank">
               <svg className="social-icon  w-[40px] text-center m-auto" viewBox="0 0 512 512"><path d={c.path}></path></svg>
             
