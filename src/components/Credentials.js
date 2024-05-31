@@ -8,7 +8,7 @@ function Credentials({credentials}) {
 
       {credentials.map((c)=> (
 
-          <div className="mr-10 text-right cred-item opacity-0">
+          <div className="mr-10 text-right cred-item opacity-0 hover:scale-125 transition-all">
             <a href={c.url} className={c.class} target="_blank">
               <svg className="social-icon  w-[40px] text-center m-auto" viewBox="0 0 512 512"><path d={c.path}></path></svg>
             

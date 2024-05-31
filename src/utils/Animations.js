@@ -16,7 +16,7 @@ export default function Animations() {
         // yes, we can add it to an entire timeline!
         scrollTrigger: {
             trigger: '.recent-work',
-            start: '-160px center', // when the top of the trigger hits the top of the viewport
+            start: '-260px center', // when the top of the trigger hits the top of the viewport
             end: '20% center', // end after scrolling 500px beyond the start
             scrub: true, // smooth scrubbing, takes 1 second to "catch up" to the scrollbar
             markers: false,
@@ -29,12 +29,12 @@ export default function Animations() {
         // yes, we can add it to an entire timeline!
         scrollTrigger: {
             trigger: '.project-item',
-            start: '0 center', // when the top of the trigger hits the top of the viewport
-            end: '300px center', // end after scrolling 500px beyond the start
+            start: '-200px center', // when the top of the trigger hits the top of the viewport
+            end: '600px center', // end after scrolling 500px beyond the start
             scrub: true, // smooth scrubbing, takes 1 second to "catch up" to the scrollbar
             markers: false,
             duration: 3,
-            toggleActions: 'play reverse'
+            toggleActions: 'play reverse play'
         }
     });
 
@@ -47,7 +47,7 @@ export default function Animations() {
             scrub: true, // smooth scrubbing, takes 1 second to "catch up" to the scrollbar
             markers: false,
             duration: 3,
-            toggleActions: 'play reverse'
+            toggleActions: 'play reverse play'
         }
     });
 
@@ -55,7 +55,7 @@ export default function Animations() {
         // yes, we can add it to an entire timeline!
         scrollTrigger: {
             trigger: '.fun-project-item',
-            start: '-100px center', // when the top of the trigger hits the top of the viewport
+            start: '-160px center', // when the top of the trigger hits the top of the viewport
             end: 'bottom center', // end after scrolling 500px beyond the start
             scrub: true, // smooth scrubbing, takes 1 second to "catch up" to the scrollbar
             markers: false,
@@ -102,9 +102,3 @@ export default function Animations() {
 
     return;
   }
-
-
-
-
-// add animations and labels to the timeline
-/**/

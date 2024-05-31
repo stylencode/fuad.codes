@@ -192,6 +192,35 @@
         ]
       },
       {
+        "title": "Feel Love Homes - ADU Estimator Plugin",
+        "description": "<p>I had a great opportunity to work with a friend on this fun estimator for this business. </p><p>His company specializes in building ADUs (Accessory Dwelling Units) in the NC area, and he reached out with a need to build an ADU Estimator for his website visitors that would also serve as a lead-generation tool integrated with HubSpot.</p><p>I chose to build him a custom plugin that extended Gravity Forms. Gravity forms was chosen because of their partnership with HubSpot offering a seamless integration with the CRM. Gravity Forms also gave the admins a simple interface to configure the estimator, or any additional forms they'd like.</p><p>The estimator needed to offer options for Fixed and Percentage costs for each selected configuration step. For example, adding flooring would be a percentage cost based on the initial Base model selected, but adding a 2nd floor is a Fixed cost. In addition, the number of steps and what product options are offered on each step is up for the admin to determine.</p><p>Initially, this sounded like a tough formula to crack, but even this challenge was tamed in short order. Because setting up this ADU Estimator was not a simple task, I also provided a detailed documentation on how to configure this plugin.</p>",
+        "images": [
+          "/assets/portfolio/flh/flh-1.png",
+          "/assets/portfolio/flh/flh-3.png",
+          "/assets/portfolio/flh/flh-4.png",
+          "/assets/portfolio/flh/flh-5.png",
+          "/assets/portfolio/flh/flh-6.png",
+          "/assets/portfolio/flh/flh-7.png"
+        ],
+        "splash": "/assets/portfolio/flh/flh-splash.jpg",
+        "url": "https://feellovehomes.com",
+        "slug": "flh",
+        "tech": [
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "WordPress"
+          },
+          {
+            "class": "fa-brands fa-hubspot",
+            "name": "HubSpot"
+          }
+        ]
+      },
+      {
         "title": "2-10 Home Buyers",
         "description": "<p>Between years 2019 and 2021, I had an opportunity to work on the 2-10 HBW marketing team and manifest several great projects. First of all, we rebuilt 2-10.com WordPress-driven website resulting in dramatic increase of returning traffic, stabilization of eCommerce revenues, and a close to an 80% conversion rate lift. During this time, I played a key role in Digital Transformation project working as a liaison between shareholders to ensure successful transition of user facing UIs and proper back-end data.</p><p> I developed various lead-acquisition focused landing pages, deployed A/B Split testing, implemented necessary tracking. </p><p>In addition, I worked with backend and operational IT teams to develop more functionality, and maintain the website on all servers. Introduced user-centric approach and MVP ideas to the immediate team. Improved site speed performance by 110%.</p>",
         "images": [
@@ -233,84 +262,6 @@
           {
             "name": "SalesForce",
             "class": "devicon-salesforce-plain"
-          }
-        ]
-      },
-      {
-        "title": "SweetCow Ice Cream",
-        "description": "<p>Selling amazing freshly made ice cream and having a great looking site isn't enough for Sweetcow Ice Cream. One of the owners, working previously as a marketing exec, made it a goal to create some really cool tools as extensions of the brand facing internally and externally.</p><p>My introduction to the relationship started with the task of implementing an e-Commerce into a rebranded Wordpress site. In collaboration with Brent Thelen Design, who came up with the look and feel and set initial bootstrap theme, I've added the online shopping capabilities with abilities to purchase pre-loaded gift cards, and specific shipping rates for perishables based on internal shipping tables.</p><p>After the implementation of WooComm and the rebrand of site, I was approached with another challenge to solve. The challenge was to build a tablet-friendly, multi-user, multi-store Inventory Content Management System that allowed staff to update inventory, manage flavors, recipes, review reports and even predict upcoming inventory needs. A similar system has already existed sitting on an outdated Flex software. It has become extremely unstable and too slow to be useful. Without an existing documentation and no references, I was tasked to rebuild the system making it faster, scalable, easy to use, and responsive. Utilizing HTML 5, PHP, Angular, and JQuery, the new system came to life in early 2019 after several months of development. It gained immediate popularity internally, has resolved previous challenges, and opened up opportunities to add more functionalities with ease.</p><p>The final integral part of this project was a Loyalty Application, available for iOS and Android phones. Although I did not develop the code for the app, it is worth to note that the application's functionally primary depends on the Inventory CMS database to create push notifications almost instantly, letting users know when their favorite flavors are now available at certain stores.</p>",
-        "images": [
-          "/assets/portfolio/sweetcow/sw-1.png",
-          "/assets/portfolio/sweetcow/sw-2.png",
-          "/assets/portfolio/sweetcow/sw-3.png",
-          "/assets/portfolio/sweetcow/sw-5.png",
-          "/assets/portfolio/sweetcow/sw-icms-1.png",
-          "/assets/portfolio/sweetcow/sw-icms-2.png",
-          "/assets/portfolio/sweetcow/sw-icms-3.png",
-          "/assets/portfolio/sweetcow/sw-icms-4.png",
-          "/assets/portfolio/sweetcow/sw-icms-5.png",
-          "/assets/portfolio/sweetcow/sw-main.png"
-        ],
-        "splash":  "/assets/portfolio/sweetcow/sw-splash.jpg",
-        "url": "https://www.sweetcow.com",
-        "slug": "sweetcow",
-        "tech": [
-          {
-            "name": "HTML5",
-            "class": "devicon-html5-plain"
-          },
-          {
-            "name": "CSS3",
-            "class": "devicon-css3-plain"
-          },
-          {
-            "name": "JQuery",
-            "class": "devicon-jquery-plain"
-          },
-          {
-            "name": "Bootstrap",
-            "class": "devicon-bootstrap-plain"
-          },
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          },
-          {
-            "name": "Wordpress",
-            "class": "devicon-wordpress-plain"
-          },
-          {
-            "name": "WooCommerce",
-            "class": "devicon-woocommerce-plain"
-          }
-        ]
-      },
-      {
-        "title": "Feel Love Homes - ADU Estimator Plugin",
-        "description": "<p>I had a great opportunity to work with a friend on this fun estimator for this business. </p><p>His company specializes in building ADUs (Accessory Dwelling Units) in the NC area, and he reached out with a need to build an ADU Estimator for his website visitors that would also serve as a lead-generation tool integrated with HubSpot.</p><p>I chose to build him a custom plugin that extended Gravity Forms. Gravity forms was chosen because of their partnership with HubSpot offering a seamless integration with the CRM. Gravity Forms also gave the admins a simple interface to configure the estimator, or any additional forms they'd like.</p><p>The estimator needed to offer options for Fixed and Percentage costs for each selected configuration step. For example, adding flooring would be a percentage cost based on the initial Base model selected, but adding a 2nd floor is a Fixed cost. In addition, the number of steps and what product options are offered on each step is up for the admin to determine.</p><p>Initially, this sounded like a tough formula to crack, but even this challenge was tamed in short order. Because setting up this ADU Estimator was not a simple task, I also provided a detailed documentation on how to configure this plugin.</p>",
-        "images": [
-          "/assets/portfolio/flh/flh-1.png",
-          "/assets/portfolio/flh/flh-3.png",
-          "/assets/portfolio/flh/flh-4.png",
-          "/assets/portfolio/flh/flh-5.png",
-          "/assets/portfolio/flh/flh-6.png",
-          "/assets/portfolio/flh/flh-7.png"
-        ],
-        "splash": "/assets/portfolio/flh/flh-splash.jpg",
-        "url": "https://feellovehomes.com",
-        "slug": "flh",
-        "tech": [
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          },
-          {
-            "class": "devicon-wordpress-plain",
-            "name": "WordPress"
-          },
-          {
-            "class": "fa-brands fa-hubspot",
-            "name": "HubSpot"
           }
         ]
       },
@@ -394,6 +345,152 @@
           {
             "class": "devicon-express-original",
             "name": "Express"
+          }
+        ]
+      },
+      {
+        "title": "SweetCow Ice Cream",
+        "shortDescription": "Wordpress, PHP, Custom Inventory Management, Bootstrap, MySQL",
+        "description": "<p>Selling amazing freshly made ice cream and having a great looking site isn't enough for Sweetcow Ice Cream. One of the owners, working previously as a marketing exec, made it a goal to create some really cool tools as extensions of the brand facing internally and externally.</p><p>My introduction to the relationship started with the task of implementing an e-Commerce into a rebranded Wordpress site. In collaboration with Brent Thelen Design, who came up with the look and feel and set initial bootstrap theme, I've added the online shopping capabilities with abilities to purchase pre-loaded gift cards, and specific shipping rates for perishables based on internal shipping tables.</p><p>After the implementation of WooComm and the rebrand of site, I was approached with another challenge to solve. The challenge was to build a tablet-friendly, multi-user, multi-store Inventory Content Management System that allowed staff to update inventory, manage flavors, recipes, review reports and even predict upcoming inventory needs. A similar system has already existed sitting on an outdated Flex software. It has become extremely unstable and too slow to be useful. Without an existing documentation and no references, I was tasked to rebuild the system making it faster, scalable, easy to use, and responsive. Utilizing HTML 5, PHP, Angular, and JQuery, the new system came to life in early 2019 after several months of development. It gained immediate popularity internally, has resolved previous challenges, and opened up opportunities to add more functionalities with ease.</p><p>The final integral part of this project was a Loyalty Application, available for iOS and Android phones. Although I did not develop the code for the app, it is worth to note that the application's functionally primary depends on the Inventory CMS database to create push notifications almost instantly, letting users know when their favorite flavors are now available at certain stores.</p>",
+        "images": [
+          "/assets/portfolio/sweetcow/sw-1.png",
+          "/assets/portfolio/sweetcow/sw-2.png",
+          "/assets/portfolio/sweetcow/sw-3.png",
+          "/assets/portfolio/sweetcow/sw-5.png",
+          "/assets/portfolio/sweetcow/sw-icms-1.png",
+          "/assets/portfolio/sweetcow/sw-icms-2.png",
+          "/assets/portfolio/sweetcow/sw-icms-3.png",
+          "/assets/portfolio/sweetcow/sw-icms-4.png",
+          "/assets/portfolio/sweetcow/sw-icms-5.png",
+          "/assets/portfolio/sweetcow/sw-main.png"
+        ],
+        "splash":  "/assets/portfolio/sweetcow/sw-splash.jpg",
+        "url": "https://www.sweetcow.com",
+        "slug": "sweetcow",
+        "tech": [
+          {
+            "name": "HTML5",
+            "class": "devicon-html5-plain"
+          },
+          {
+            "name": "CSS3",
+            "class": "devicon-css3-plain"
+          },
+          {
+            "name": "JQuery",
+            "class": "devicon-jquery-plain"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "name": "Wordpress",
+            "class": "devicon-wordpress-plain"
+          },
+          {
+            "name": "WooCommerce",
+            "class": "devicon-woocommerce-plain"
+          }
+        ]
+      },
+      {
+        "title": "Viper-X 2021",
+        "shortDescription": "Prototype, AngularJS, Bootstrap",
+        "description": "<p>When I was working for a Fortune500 company, I had the opportunity to explore a new and engaging way to allow customers shops for their TV packages.</p><p>In order to make the UX as interactive and intuitive as possible, I createa a flip-card prototype that lists offered channels and movies along with descriptions, and other important information.</p><p>A user is able to favorite as many a la carte items as desired, and the final output in the cart shows the best TV package plan available.</p><p>This prototype received amazing reviews and, I believe, has served as an inpiration for the new Interface company ended up building.</p>",
+        "images": [
+          "/assets/portfolio/projectx/viper1.png",
+          "/assets/portfolio/projectx/viper2.png",
+          "/assets/portfolio/projectx/viper3.png"
+        ],
+        "splash": "/assets/portfolio/projectx/viperx-logo.jpg",
+        "url": "https://mnw.nsm.mybluehost.me/website_09aa8e1a/",
+        "slug": "viperx",
+        "tech": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "AngularJS"
+          },
+          {
+            "class": "devicon-nextjs-plain",
+            "name": "HTML5"
+          }
+        ]
+      },
+      {
+        "title": "Hotel Engine",
+        "shortDescription": "Wordpress, Bootstrap",
+        "description": "<p>With an outdated website codebase and no CMS was in place for regular updates and multi-user capability, HotelEngine team reached out to me and my friend at Brent Thelen Designs to build their website using modern code and best practice for both a scalable website and overall better user experience.</p><p>We created a completely custom theme using Wordpress CMS. Using Advanced Custom Fields Pro, we created flexible and customizable content that can accommodate for text, video and imagery and inline CSS styling. This was done on a page-level with a few clicks.</p><p>Design had to be strictly on-brand and follow all guidelines. We ensured that we could bring life and engagement to the user experience though a use of subtle animations and scroll-based behaviors present on every page. Everything also needed to load quickly and respond to any device with the correct feel.</p>",
+        "images": [
+          "/assets/portfolio/hotelengine/hotel-engine-2.jpg",
+          "/assets/portfolio/hotelengine/hotel-engine-2.jpg"
+        ],
+        "splash": "/assets/portfolio/hotelengine/he-logo.jpg",
+        "url": "https://www.hotelengine.com",
+        "slug": "he",
+        "tech": [
+          {
+            "name": "HTML5",
+            "class": "devicon-html5-plain"
+          },
+          {
+            "name": "CSS3",
+            "class": "devicon-css3-plain"
+          },
+          {
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain"
+          },
+          {
+            "name": "JQuery",
+            "class": "devicon-jquery-plain"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain"
+          },
+          {
+            "name": "Wordpress",
+            "class": "devicon-wordpress-plain"
+          }
+        ]
+      },
+      {
+        "title": "Vista Neuro",
+        "shortDescription": "Wordpress, Avada Theme",
+        "description": "<p>Vista Neuro was another fun project for a colleague of mine. They needed a simple brochure-style site that could be easily updated by someone non-technical. We only had a logo and a limited budget to work with. The budget did not permit me to design and build a fully custom theme from scratch.</p><p>As a solution, we found an existing theme on ThemeForest that functionally and visually worked for the client. With some massaging, I was able to modify the purchased theme into the look and feel that the client desired. After all of the content flowed in and documentation on site usage created, we launched in under a week of total time.</p>",
+        "images": [
+          "/assets/portfolio/vistaneuro/vn-1.png",
+          "/assets/portfolio/vistaneuro/vn-2.png",
+          "/assets/portfolio/vistaneuro/vn-3.png"
+        ],
+        "splash": "/assets/portfolio/vistaneuro/vn-logo.jpg",
+        "url": "https://www.vistaneuro.com",
+        "slug": "vista-neuro",
+        "tech": [
+          {
+            "name": "HTML5",
+            "class": "devicon-html5-plain"
+          },
+          {
+            "name": "CSS3",
+            "class": "devicon-css3-plain"
+          },
+          {
+            "name": "JQuery",
+            "class": "devicon-jquery-plain"
+          },
+          {
+            "name": "Wordpress",
+            "class": "devicon-wordpress-plain"
+          },
+          {
+            "name": "MySql",
+            "class": "devicon-mysql-plain"
           }
         ]
       },
@@ -483,102 +580,6 @@
           {
             "name": "WooCommerce",
             "class": "devicon-woocommerce-plain"
-          }
-        ]
-      },
-      {
-        "title": "Hotel Engine",
-        "shortDescription": "Wordpress, Bootstrap",
-        "description": "<p>With an outdated website codebase and no CMS was in place for regular updates and multi-user capability, HotelEngine team reached out to me and my friend at Brent Thelen Designs to build their website using modern code and best practice for both a scalable website and overall better user experience.</p><p>We created a completely custom theme using Wordpress CMS. Using Advanced Custom Fields Pro, we created flexible and customizable content that can accommodate for text, video and imagery and inline CSS styling. This was done on a page-level with a few clicks.</p><p>Design had to be strictly on-brand and follow all guidelines. We ensured that we could bring life and engagement to the user experience though a use of subtle animations and scroll-based behaviors present on every page. Everything also needed to load quickly and respond to any device with the correct feel.</p>",
-        "images": [
-          "/assets/portfolio/hotelengine/hotel-engine-2.jpg",
-          "/assets/portfolio/hotelengine/hotel-engine-2.jpg"
-        ],
-        "splash": "/assets/portfolio/hotelengine/he-logo.jpg",
-        "url": "https://www.hotelengine.com",
-        "slug": "he",
-        "tech": [
-          {
-            "name": "HTML5",
-            "class": "devicon-html5-plain"
-          },
-          {
-            "name": "CSS3",
-            "class": "devicon-css3-plain"
-          },
-          {
-            "name": "JavaScript",
-            "class": "devicon-javascript-plain"
-          },
-          {
-            "name": "JQuery",
-            "class": "devicon-jquery-plain"
-          },
-          {
-            "name": "Bootstrap",
-            "class": "devicon-bootstrap-plain"
-          },
-          {
-            "name": "Wordpress",
-            "class": "devicon-wordpress-plain"
-          }
-        ]
-      },
-      {
-        "title": "Viper-X 2021",
-        "shortDescription": "Prototype, AngularJS, Bootstrap",
-        "description": "<p>When I was working for a Fortune500 company, I had the opportunity to explore a new and engaging way to allow customers shops for their TV packages.</p><p>In order to make the UX as interactive and intuitive as possible, I createa a flip-card prototype that lists offered channels and movies along with descriptions, and other important information.</p><p>A user is able to favorite as many a la carte items as desired, and the final output in the cart shows the best TV package plan available.</p><p>This prototype received amazing reviews and, I believe, has served as an inpiration for the new Interface company ended up building.</p>",
-        "images": [
-          "/assets/portfolio/projectx/viper1.png",
-          "/assets/portfolio/projectx/viper2.png",
-          "/assets/portfolio/projectx/viper3.png"
-        ],
-        "splash": "/assets/portfolio/projectx/viperx-logo.jpg",
-        "url": "https://mnw.nsm.mybluehost.me/website_09aa8e1a/",
-        "slug": "viperx",
-        "tech": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "AngularJS"
-          },
-          {
-            "class": "devicon-nextjs-plain",
-            "name": "HTML5"
-          }
-        ]
-      },
-      {
-        "title": "Vista Neuro",
-        "shortDescription": "Wordpress, Avada Theme",
-        "description": "<p>Vista Neuro was another fun project for a colleague of mine. They needed a simple brochure-style site that could be easily updated by someone non-technical. We only had a logo and a limited budget to work with. The budget did not permit me to design and build a fully custom theme from scratch.</p><p>As a solution, we found an existing theme on ThemeForest that functionally and visually worked for the client. With some massaging, I was able to modify the purchased theme into the look and feel that the client desired. After all of the content flowed in and documentation on site usage created, we launched in under a week of total time.</p>",
-        "images": [
-          "/assets/portfolio/vistaneuro/vn-1.png",
-          "/assets/portfolio/vistaneuro/vn-2.png",
-          "/assets/portfolio/vistaneuro/vn-3.png"
-        ],
-        "splash": "/assets/portfolio/vistaneuro/vn-logo.jpg",
-        "url": "https://www.vistaneuro.com",
-        "slug": "vista-neuro",
-        "tech": [
-          {
-            "name": "HTML5",
-            "class": "devicon-html5-plain"
-          },
-          {
-            "name": "CSS3",
-            "class": "devicon-css3-plain"
-          },
-          {
-            "name": "JQuery",
-            "class": "devicon-jquery-plain"
-          },
-          {
-            "name": "Wordpress",
-            "class": "devicon-wordpress-plain"
-          },
-          {
-            "name": "MySql",
-            "class": "devicon-mysql-plain"
           }
         ]
       }
