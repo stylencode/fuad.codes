@@ -4,7 +4,7 @@ function Credentials({credentials}) {
 //console.log(credentials);
 
   return (
-    <div id="credentials" className="pt-3 mb-20 pb-10 text-black flex gap-5 justify-start ">
+    <div id="credentials" className="pt-3 mb-10 pb-10 text-black flex gap-5 justify-start lg:w-1/2 md:w-3/4 sm:w-100 p-4 m-auto overflow-x-hidden">
 
       {credentials.map((c)=> (
 

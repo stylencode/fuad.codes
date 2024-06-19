@@ -7,7 +7,7 @@ function RecentWork({projects}) {
   //console.log(projectsData);
 
   return (
-    <div id="projects" className="mb-20 ">
+    <div id="projects" className="mb-20 lg:w-1/2 md:w-3/4 sm:w-100 p-4 m-auto overflow-x-hidden">
       <h2 className="mb-5 recent-work opacity-0" >
         Recent Work
       </h2>

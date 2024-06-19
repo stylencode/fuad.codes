@@ -6,7 +6,7 @@ function FunWorks ({projects}) {
   console.log(funWorks);
 
   return (
-    <div id="funProjects" className="mb-20">
+    <div id="funProjects" className="mb-20 lg:w-1/2 md:w-3/4 sm:w-100 p-4 m-auto overflow-x-hidden">
       <h2 className="mb-5 fun-projects opacity-0">
         Fun Projects
       </h2>
